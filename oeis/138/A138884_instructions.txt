@@ -1,0 +1,11 @@
+mov
+lpb
+mov
+add
+mul
+sub
+trn
+add
+mul
+lpe
+add

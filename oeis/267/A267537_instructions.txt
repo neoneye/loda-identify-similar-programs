@@ -1,0 +1,4 @@
+div
+cmp
+pow
+mov

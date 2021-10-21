@@ -1,0 +1,5 @@
+mod
+pow
+dif
+mul
+add

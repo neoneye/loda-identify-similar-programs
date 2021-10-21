@@ -1,0 +1,6 @@
+trn
+add
+mov
+seq
+seq
+sub

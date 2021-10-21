@@ -1,0 +1,11 @@
+mod
+mov
+cmp
+mov
+mov
+cmp
+add
+mov
+cmp
+add
+mov

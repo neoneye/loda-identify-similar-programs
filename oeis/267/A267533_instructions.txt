@@ -1,0 +1,7 @@
+seq
+div
+mov
+max
+add
+mod
+mov

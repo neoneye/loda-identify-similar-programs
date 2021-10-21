@@ -1,0 +1,8 @@
+lpb
+sub
+bin
+lpe
+seq
+seq
+min
+mod

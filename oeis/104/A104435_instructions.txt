@@ -1,0 +1,4 @@
+cmp
+cmp
+sub
+add

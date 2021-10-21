@@ -1,0 +1,6 @@
+mul
+add
+bin
+add
+div
+mul

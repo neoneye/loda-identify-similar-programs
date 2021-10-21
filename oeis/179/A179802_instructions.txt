@@ -1,0 +1,6 @@
+seq
+bin
+trn
+mod
+mul
+add

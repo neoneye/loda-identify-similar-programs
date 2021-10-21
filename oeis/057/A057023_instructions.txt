@@ -1,0 +1,6 @@
+trn
+seq
+sub
+lpb
+dif
+lpe

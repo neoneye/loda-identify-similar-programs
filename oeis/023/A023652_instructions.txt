@@ -1,0 +1,8 @@
+mov
+pow
+mov
+seq
+add
+add
+div
+add

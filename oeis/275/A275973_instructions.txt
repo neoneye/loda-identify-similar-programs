@@ -1,0 +1,7 @@
+mov
+lpb
+mov
+div
+lpe
+div
+mov

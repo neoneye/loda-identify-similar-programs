@@ -1,0 +1,9 @@
+dif
+mul
+trn
+mov
+bin
+mul
+mov
+add
+mod

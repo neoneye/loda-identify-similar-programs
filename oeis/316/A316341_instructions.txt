@@ -1,0 +1,6 @@
+lpb
+trn
+add
+dif
+lpe
+cmp

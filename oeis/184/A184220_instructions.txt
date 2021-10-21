@@ -1,0 +1,6 @@
+pow
+trn
+lpb
+mul
+trn
+lpe

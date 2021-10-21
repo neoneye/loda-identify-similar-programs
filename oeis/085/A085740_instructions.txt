@@ -1,0 +1,5 @@
+mov
+mul
+bin
+add
+mul

@@ -1,0 +1,8 @@
+mov
+bin
+sub
+mod
+add
+gcd
+add
+sub

@@ -1,0 +1,14 @@
+mod
+mov
+mul
+add
+mov
+mul
+cmp
+mul
+mul
+add
+add
+trn
+mul
+add

@@ -1,0 +1,8 @@
+add
+seq
+mod
+mul
+add
+pow
+add
+mod

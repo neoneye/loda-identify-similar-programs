@@ -1,0 +1,6 @@
+seq
+sub
+lpb
+sub
+seq
+lpe

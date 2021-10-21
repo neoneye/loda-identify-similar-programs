@@ -1,0 +1,10 @@
+add
+mov
+div
+add
+bin
+mul
+mov
+sub
+mul
+add

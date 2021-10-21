@@ -1,0 +1,6 @@
+seq
+dif
+pow
+sub
+mul
+add

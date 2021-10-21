@@ -1,0 +1,9 @@
+mul
+max
+seq
+mov
+mul
+sub
+mul
+div
+mov

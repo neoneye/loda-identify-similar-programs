@@ -1,0 +1,8 @@
+mov
+seq
+mov
+mov
+mod
+sub
+sub
+mul

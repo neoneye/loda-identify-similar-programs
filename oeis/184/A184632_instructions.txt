@@ -1,0 +1,5 @@
+add
+pow
+div
+trn
+add

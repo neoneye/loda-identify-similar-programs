@@ -1,0 +1,5 @@
+mul
+trn
+pow
+div
+mul

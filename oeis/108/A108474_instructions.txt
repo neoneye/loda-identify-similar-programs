@@ -1,0 +1,7 @@
+sub
+add
+div
+gcd
+pow
+div
+mov

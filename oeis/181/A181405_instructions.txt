@@ -1,0 +1,6 @@
+mov
+pow
+clr
+mov
+mul
+mov

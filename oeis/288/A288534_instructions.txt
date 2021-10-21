@@ -1,0 +1,8 @@
+mov
+mul
+pow
+mul
+add
+cmp
+max
+mov

@@ -1,0 +1,4 @@
+mul
+min
+add
+mod

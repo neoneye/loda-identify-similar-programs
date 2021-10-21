@@ -1,0 +1,7 @@
+mov
+add
+seq
+max
+pow
+bin
+mov

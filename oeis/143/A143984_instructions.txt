@@ -1,0 +1,8 @@
+lpb
+sub
+sub
+pow
+sub
+add
+lpe
+mov

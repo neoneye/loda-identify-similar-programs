@@ -1,0 +1,13 @@
+mov
+mov
+cmp
+add
+div
+mul
+add
+mul
+mov
+seq
+mul
+mul
+div

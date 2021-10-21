@@ -1,0 +1,8 @@
+sub
+gcd
+lpb
+sub
+mov
+lpe
+div
+mov

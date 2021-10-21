@@ -1,0 +1,12 @@
+seq
+mov
+div
+sub
+sub
+mov
+mul
+bin
+sub
+mul
+div
+mod

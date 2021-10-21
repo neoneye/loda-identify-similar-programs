@@ -1,0 +1,12 @@
+seq
+sub
+seq
+mov
+sub
+mov
+lpb
+sub
+mov
+lpe
+mov
+sub

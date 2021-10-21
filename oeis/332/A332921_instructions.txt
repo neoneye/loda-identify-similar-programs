@@ -1,0 +1,16 @@
+mov
+lpb
+mov
+bin
+add
+mod
+div
+cmp
+add
+mod
+lpe
+mov
+cmp
+add
+max
+mov

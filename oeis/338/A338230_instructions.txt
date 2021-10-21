@@ -1,0 +1,14 @@
+mov
+cmp
+add
+mov
+sub
+seq
+add
+add
+mov
+sub
+mov
+sub
+sub
+sub

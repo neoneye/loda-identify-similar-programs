@@ -1,0 +1,8 @@
+mul
+mov
+lpb
+mul
+mul
+sub
+lpe
+mov

@@ -1,0 +1,4 @@
+gcd
+cmp
+pow
+mov

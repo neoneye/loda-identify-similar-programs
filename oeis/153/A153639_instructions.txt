@@ -1,0 +1,10 @@
+mov
+bin
+add
+lpb
+add
+div
+lpe
+add
+mod
+mov

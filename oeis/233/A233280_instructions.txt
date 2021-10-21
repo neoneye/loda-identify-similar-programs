@@ -1,0 +1,7 @@
+mov
+trn
+seq
+seq
+cmp
+cmp
+mul

@@ -1,0 +1,6 @@
+div
+add
+pow
+sub
+div
+add

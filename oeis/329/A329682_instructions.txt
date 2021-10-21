@@ -1,0 +1,4 @@
+sub
+mov
+dif
+cmp

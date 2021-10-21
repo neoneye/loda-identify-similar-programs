@@ -1,0 +1,7 @@
+sub
+sub
+sub
+bin
+mod
+trn
+add

@@ -1,0 +1,5 @@
+mov
+mod
+trn
+sub
+sub

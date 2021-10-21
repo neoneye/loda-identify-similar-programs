@@ -1,0 +1,5 @@
+mov
+trn
+gcd
+trn
+mov

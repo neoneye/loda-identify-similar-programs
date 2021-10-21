@@ -1,0 +1,8 @@
+sub
+lpb
+sub
+mul
+sub
+lpe
+trn
+add

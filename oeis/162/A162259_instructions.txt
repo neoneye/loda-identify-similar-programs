@@ -1,0 +1,13 @@
+mov
+mul
+pow
+sub
+mov
+mov
+add
+mul
+add
+mul
+sub
+div
+add

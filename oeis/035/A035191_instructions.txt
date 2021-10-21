@@ -1,0 +1,6 @@
+add
+lpb
+dif
+lpe
+seq
+add

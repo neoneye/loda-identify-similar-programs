@@ -1,0 +1,4 @@
+trn
+mod
+mul
+add

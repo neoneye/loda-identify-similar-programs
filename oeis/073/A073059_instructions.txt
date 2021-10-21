@@ -1,0 +1,7 @@
+add
+lpb
+sub
+mul
+dif
+lpe
+mod

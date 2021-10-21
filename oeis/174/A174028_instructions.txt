@@ -1,0 +1,7 @@
+mul
+add
+lpb
+sub
+add
+lpe
+mul

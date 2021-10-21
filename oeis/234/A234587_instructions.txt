@@ -1,0 +1,4 @@
+trn
+seq
+mul
+add

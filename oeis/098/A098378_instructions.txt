@@ -1,0 +1,5 @@
+trn
+mod
+cmp
+cmp
+add

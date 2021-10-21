@@ -1,0 +1,5 @@
+seq
+mul
+max
+pow
+add

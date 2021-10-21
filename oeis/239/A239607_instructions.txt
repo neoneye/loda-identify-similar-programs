@@ -1,0 +1,4 @@
+pow
+mul
+sub
+pow

@@ -1,0 +1,8 @@
+sub
+mov
+sub
+add
+pow
+max
+sub
+mov

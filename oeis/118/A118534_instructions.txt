@@ -1,0 +1,7 @@
+lpb
+mov
+pow
+mod
+seq
+lpe
+mov

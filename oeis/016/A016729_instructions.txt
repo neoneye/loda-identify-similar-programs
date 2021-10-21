@@ -1,0 +1,10 @@
+lpb
+max
+sub
+mod
+cmp
+add
+lpe
+div
+add
+mov

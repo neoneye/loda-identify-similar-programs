@@ -1,0 +1,5 @@
+sub
+div
+cmp
+add
+mov

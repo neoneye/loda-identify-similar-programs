@@ -1,0 +1,7 @@
+lpb
+mod
+mov
+gcd
+lpe
+add
+mov

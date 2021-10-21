@@ -1,0 +1,4 @@
+dif
+mod
+pow
+add

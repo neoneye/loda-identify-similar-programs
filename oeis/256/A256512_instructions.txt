@@ -1,0 +1,6 @@
+mov
+mov
+mul
+pow
+add
+mul

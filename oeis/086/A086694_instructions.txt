@@ -1,0 +1,6 @@
+lpb
+div
+sub
+lpe
+cmp
+mov

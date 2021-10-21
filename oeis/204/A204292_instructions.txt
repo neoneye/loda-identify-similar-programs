@@ -1,0 +1,4 @@
+mov
+add
+seq
+bin

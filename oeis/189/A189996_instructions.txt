@@ -1,0 +1,16 @@
+mov
+div
+gcd
+mov
+gcd
+add
+add
+mov
+add
+add
+div
+add
+mul
+sub
+div
+mov

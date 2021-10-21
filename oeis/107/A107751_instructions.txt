@@ -1,0 +1,5 @@
+trn
+mod
+bin
+gcd
+mov

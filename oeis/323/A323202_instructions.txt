@@ -1,0 +1,6 @@
+mov
+gcd
+cmp
+cmp
+sub
+add
