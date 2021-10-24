@@ -1,3 +1,3 @@
 program_id;overlap_count;signature_length;jaccard_index
-29744;10;20;0.5000
-182815;10;20;0.5000
+29744;10;30;0.3333
+182815;10;30;0.3333
