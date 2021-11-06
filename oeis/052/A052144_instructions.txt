@@ -1,6 +1,2 @@
 seq
 pow
-mov
-add
-mov
-sub

@@ -1,8 +1,4 @@
-seq
-pow
 mul
 add
-pow
-sub
+seq
 div
-add

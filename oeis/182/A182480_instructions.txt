@@ -1,8 +1,9 @@
-add
 mov
 pow
-seq
-mov
+sub
 mul
+add
+div
+mov
 add
 mod

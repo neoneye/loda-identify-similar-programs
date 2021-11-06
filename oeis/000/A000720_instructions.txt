@@ -1,10 +1,2 @@
-mov
-mov
-lpb
-mov
-sub
-sub
 seq
-add
-lpe
-mov
+sub

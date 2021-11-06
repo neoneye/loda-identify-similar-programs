@@ -1,13 +1,6 @@
 mov
-mov
 trn
 lpb
-add
-gcd
 mul
 sub
-clr
-mul
 lpe
-mov
-mov

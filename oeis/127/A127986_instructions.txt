@@ -1,6 +1,5 @@
 mov
-seq
-mov
 pow
+seq
 add
 sub

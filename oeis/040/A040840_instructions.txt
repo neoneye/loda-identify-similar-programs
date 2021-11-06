@@ -5,7 +5,5 @@ gcd
 add
 add
 mul
-sub
 add
-mov
 sub

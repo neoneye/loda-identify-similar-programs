@@ -1,6 +1,6 @@
-lpb
 mov
+pow
+mul
+div
 mov
-seq
-lpe
-mov
+mod

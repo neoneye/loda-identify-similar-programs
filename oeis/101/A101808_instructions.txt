@@ -1,11 +1,7 @@
 mul
 mov
-seq
-mov
-add
-add
-mov
-cmp
-add
 div
-sub
+cmp
+seq
+add
+mov

@@ -1,5 +1,9 @@
 mul
-mov
-seq
+div
 add
+mul
+dif
+div
+mul
+div
 add

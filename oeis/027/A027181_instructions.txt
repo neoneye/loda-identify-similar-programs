@@ -1,5 +1,4 @@
-sub
-seq
-add
-sub
 mov
+seq
+sub
+sub

@@ -1,13 +1,10 @@
 mov
-mul
 mov
-lpb
 trn
-mod
-mov
-lpe
 add
 gcd
-div
-add
+sub
+pow
 mov
+add
+mod

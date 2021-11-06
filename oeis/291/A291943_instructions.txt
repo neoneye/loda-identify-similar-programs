@@ -1,8 +1,9 @@
 mul
-lpb
 mov
-seq
+pow
+mov
+add
+div
 trn
-lpe
 mov
 mod

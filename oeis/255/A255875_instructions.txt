@@ -1,7 +1,5 @@
-add
 mov
-add
 seq
-sub
 add
 mov
+sub

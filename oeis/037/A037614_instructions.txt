@@ -1,3 +1,6 @@
-seq
+add
+mov
+pow
+mov
 mul
 div

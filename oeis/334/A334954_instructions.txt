@@ -1,16 +1,5 @@
-add
 mov
-mov
-lpb
-mov
-cmp
-add
-mov
-dif
+seq
 sub
-cmp
-cmp
 add
-lpe
 mov
-add

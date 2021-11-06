@@ -1,5 +1,6 @@
 seq
+add
 bin
-max
+mov
 mul
 add

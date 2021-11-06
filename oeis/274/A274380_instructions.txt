@@ -1,14 +1,9 @@
+mul
 mod
-mov
+pow
 mul
-add
-mov
+mod
 mul
-cmp
-mul
-mul
-add
-add
 trn
 mul
 add

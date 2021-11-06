@@ -1,2 +1,6 @@
 seq
+pow
+add
+mul
 mod
+div

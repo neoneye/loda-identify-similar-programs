@@ -1,5 +1,4 @@
 seq
 pow
-max
-add
 div
+add

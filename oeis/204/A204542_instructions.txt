@@ -1,5 +1,7 @@
 add
 seq
-seq
+add
+mul
 div
+add
 sub

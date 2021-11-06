@@ -1,11 +1,10 @@
-mov
-mov
-mov
-add
 mul
-bin
 add
+mov
+mov
+bin
+mul
+sub
 div
 add
-sub
 mov

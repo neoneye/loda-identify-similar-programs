@@ -1,6 +1,9 @@
-seq
-dif
-bin
-sub
-div
 add
+mov
+pow
+sub
+mul
+mov
+bin
+add
+div

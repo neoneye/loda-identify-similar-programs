@@ -1,5 +1,4 @@
 seq
-sub
-gcd
 add
+mul
 mod

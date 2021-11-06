@@ -1,2 +1,4 @@
+mov
+div
 seq
-sub
+add

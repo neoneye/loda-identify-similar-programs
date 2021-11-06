@@ -1,6 +1,6 @@
 mov
 seq
-gcd
+mod
 mul
-add
 sub
+add

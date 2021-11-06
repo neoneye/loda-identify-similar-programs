@@ -4,6 +4,7 @@ mul
 mov
 cmp
 add
+sub
 lpb
 mul
 mul
@@ -16,6 +17,7 @@ lpe
 mov
 pow
 div
+mov
 cmp
 cmp
 add

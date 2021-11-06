@@ -1,5 +1,4 @@
 mul
 seq
-div
-mul
+trn
 add

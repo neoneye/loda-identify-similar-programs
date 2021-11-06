@@ -1,5 +1,7 @@
 mul
+mov
+sub
+mov
+sub
 add
 seq
-mul
-sub

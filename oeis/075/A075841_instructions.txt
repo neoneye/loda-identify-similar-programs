@@ -8,5 +8,4 @@ add
 add
 lpe
 mov
-div
 mul

@@ -1,2 +1,7 @@
+mov
 seq
-trn
+mov
+sub
+mov
+mul
+div

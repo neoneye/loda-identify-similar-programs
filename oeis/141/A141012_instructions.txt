@@ -1,10 +1,7 @@
-mov
-lpb
 sub
 mov
-max
-seq
+pow
+bin
+sub
 add
-lpe
 mov
-mul

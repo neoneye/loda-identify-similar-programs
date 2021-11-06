@@ -1,12 +1,10 @@
 mov
-add
-cmp
-sub
-mov
 pow
-add
-div
-sub
+min
 mul
 add
+sub
+div
 mov
+mul
+add

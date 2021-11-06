@@ -1,5 +1,3 @@
-sub
-sub
+mul
 bin
 add
-mov

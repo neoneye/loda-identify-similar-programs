@@ -11,7 +11,5 @@ mul
 add
 mov
 lpe
-min
-mul
 sub
 mov

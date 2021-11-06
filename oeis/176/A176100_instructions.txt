@@ -1,7 +1,8 @@
 mov
+mul
+trn
+sub
+trn
 seq
-lpb
-mov
-mod
-lpe
+sub
 mul

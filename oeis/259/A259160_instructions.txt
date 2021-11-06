@@ -2,4 +2,3 @@ mul
 seq
 pow
 div
-mul

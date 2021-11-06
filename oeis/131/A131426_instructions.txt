@@ -1,4 +1,4 @@
 seq
-mov
 trn
+mul
 add

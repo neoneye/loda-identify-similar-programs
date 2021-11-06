@@ -1,8 +1,10 @@
 mov
 mov
+mov
 mul
 lpb
 mul
+add
 add
 mov
 div
@@ -12,13 +14,11 @@ add
 div
 div
 sub
-add
 lpe
+mul
 mov
 pow
 div
 div
-div
-add
-mod
 mov
+mod

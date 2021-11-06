@@ -1,3 +1,4 @@
+mul
 add
 seq
 add

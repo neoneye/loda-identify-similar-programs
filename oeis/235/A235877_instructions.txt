@@ -2,7 +2,7 @@ add
 mov
 pow
 mov
-seq
+pow
+mul
 add
-sub
 mov

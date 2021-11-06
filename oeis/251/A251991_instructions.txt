@@ -1,6 +1,5 @@
-mul
 add
+mul
 seq
 pow
 div
-mul

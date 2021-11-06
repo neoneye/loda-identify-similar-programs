@@ -1,4 +1,7 @@
-max
+mov
+cmp
+add
 seq
-gcd
 sub
+div
+add

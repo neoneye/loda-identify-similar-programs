@@ -1,2 +1,10 @@
 pow
-seq
+lpb
+mov
+div
+sub
+mod
+cmp
+add
+lpe
+mov

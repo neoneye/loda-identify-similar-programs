@@ -1,12 +1,7 @@
 add
 mov
 pow
-mul
 add
-bin
-div
-mul
+pow
 mov
-sub
 div
-add

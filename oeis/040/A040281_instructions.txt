@@ -1,2 +1,10 @@
 seq
 dif
+mov
+div
+sub
+mov
+sub
+dif
+mov
+add

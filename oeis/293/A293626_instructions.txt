@@ -1,10 +1,9 @@
 add
 seq
-mul
+sub
 mov
 pow
-mul
-sub
-div
-add
 mov
+div
+mul
+add

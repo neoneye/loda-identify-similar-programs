@@ -1,7 +1,7 @@
 lpb
-sub
 mov
-max
+sub
+trn
 seq
 add
 lpe

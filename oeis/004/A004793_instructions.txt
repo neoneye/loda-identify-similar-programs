@@ -1,8 +1,8 @@
-seq
-sub
-add
-mod
-add
-div
-add
 mov
+div
+seq
+mul
+add
+add
+mul
+div

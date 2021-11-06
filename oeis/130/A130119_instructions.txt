@@ -6,7 +6,5 @@ add
 gcd
 mov
 mov
-add
 lpe
-sub
 mov

@@ -1,17 +1,17 @@
 mov
+mov
 mul
+sub
 lpb
 mul
 mul
 add
-mov
 mov
 cmp
 add
 div
 div
 add
-sub
 sub
 lpe
 mul
@@ -23,6 +23,5 @@ cmp
 cmp
 add
 div
-add
-mov
 mod
+mov

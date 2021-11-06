@@ -1,11 +1,11 @@
 mov
+trn
 bin
+pow
 mul
-mov
-mul
-lpb
-mov
+trn
 add
-mov
-lpe
+add
+mul
+div
 mul

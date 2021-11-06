@@ -1,5 +1,13 @@
+add
 seq
-div
+add
+lpb
+sub
+dif
 mul
+lpe
+sub
+mul
+sub
 div
 add

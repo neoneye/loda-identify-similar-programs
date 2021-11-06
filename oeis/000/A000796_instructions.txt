@@ -2,6 +2,7 @@ mov
 mov
 mov
 mul
+sub
 lpb
 mul
 mov

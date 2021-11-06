@@ -1,7 +1,3 @@
-lpb
-bin
-sub
-lpe
 add
 pow
 sub

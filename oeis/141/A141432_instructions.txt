@@ -1,6 +1,6 @@
 mov
 seq
-seq
 add
+seq
 sub
 mul

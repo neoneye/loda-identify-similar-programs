@@ -1,11 +1,9 @@
+add
+mul
 mov
-pow
+bin
+add
+mul
 div
-mov
-add
-pow
-add
-add
-sub
 sub
 div

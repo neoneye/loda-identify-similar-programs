@@ -1,10 +1,10 @@
 add
 lpb
-add
 sub
 mov
 mov
 mul
+add
 sub
 add
 add

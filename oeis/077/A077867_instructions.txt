@@ -1,8 +1,8 @@
 add
 lpb
-add
 sub
 mov
+add
 mov
 mul
 sub

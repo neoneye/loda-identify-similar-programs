@@ -1,10 +1,12 @@
-lpb
 mov
+pow
+mul
+mov
+pow
 sub
-seq
+mov
+mul
 add
 mul
-lpe
 div
 add
-mov

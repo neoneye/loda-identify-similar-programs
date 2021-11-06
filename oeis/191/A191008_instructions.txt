@@ -11,10 +11,5 @@ lpe
 mul
 div
 mov
-mov
-add
-add
-sub
 div
 add
-mov

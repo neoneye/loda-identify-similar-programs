@@ -1,10 +1,12 @@
-seq
 mov
-add
-add
+mul
+mov
+div
 sub
 div
 add
-div
-sub
+add
+mul
+add
+add
 sub

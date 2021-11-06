@@ -1,6 +1,6 @@
-seq
-div
 mov
+mov
+pow
 lpb
 mov
 div

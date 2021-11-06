@@ -1,11 +1,12 @@
 mov
+sub
+div
 lpb
+add
+add
 mov
 div
-seq
-mov
-min
 add
 lpe
-add
 mov
+sub

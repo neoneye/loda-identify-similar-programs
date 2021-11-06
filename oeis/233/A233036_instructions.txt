@@ -1,11 +1,10 @@
 add
+mov
+div
+min
 pow
 div
-mov
-lpb
-div
-mov
-mov
-lpe
 mul
 mov
+div
+mul

@@ -5,10 +5,8 @@ add
 mov
 add
 mul
-add
+mov
 mul
 add
-sub
 div
-add
 mov

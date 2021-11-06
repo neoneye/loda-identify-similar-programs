@@ -1,16 +1,6 @@
 mov
+cmp
 mov
-lpb
-mov
-sub
 add
-max
 seq
 mov
-mul
-add
-lpe
-min
-mul
-mov
-sub

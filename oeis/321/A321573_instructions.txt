@@ -7,7 +7,5 @@ add
 add
 mul
 div
-mul
-sub
-div
 mov
+sub

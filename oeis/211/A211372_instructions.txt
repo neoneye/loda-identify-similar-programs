@@ -1,7 +1,7 @@
+mov
+add
+pow
 mul
+div
 mov
-seq
 sub
-add
-mov
-add

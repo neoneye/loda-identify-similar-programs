@@ -1,2 +1,9 @@
-seq
+mul
+add
+mov
+mod
+div
+mul
+add
+div
 sub

@@ -12,9 +12,6 @@ max
 cmp
 mul
 lpe
-div
-sub
-div
-mul
-add
 mov
+sub
+mul

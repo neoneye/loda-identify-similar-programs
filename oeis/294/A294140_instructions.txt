@@ -1,11 +1,6 @@
 mov
 pow
-lpb
-mul
-mov
 sub
-mov
+sub
 sub
 pow
-lpe
-mov

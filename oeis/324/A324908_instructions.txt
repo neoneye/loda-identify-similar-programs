@@ -1,12 +1,8 @@
+mov
 lpb
-mod
+add
 sub
 lpe
-seq
+trn
 mov
-lpb
-div
-add
-lpe
-div
-mov
+mod

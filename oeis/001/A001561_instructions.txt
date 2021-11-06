@@ -1,10 +1,8 @@
+add
 mov
-seq
+bin
 mul
 add
-add
+mul
 mul
 sub
-div
-mul
-add

@@ -1,6 +1,6 @@
-mul
-add
+mov
 seq
+mov
 sub
-div
+mul
 add

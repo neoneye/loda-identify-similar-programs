@@ -1,6 +1,6 @@
-seq
-mov
-mul
-gcd
-add
 sub
+mov
+pow
+mul
+max
+mov

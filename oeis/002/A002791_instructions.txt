@@ -12,10 +12,7 @@ cmp
 mul
 sub
 add
-sub
 add
 lpe
-sub
 mov
-sub
-mov
+add

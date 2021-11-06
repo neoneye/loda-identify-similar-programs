@@ -3,7 +3,5 @@ mov
 sub
 seq
 add
-add
 lpe
 mov
-div

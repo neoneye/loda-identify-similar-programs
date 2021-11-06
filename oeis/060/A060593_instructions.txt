@@ -1,2 +1,5 @@
+mov
 mul
 seq
+add
+div

@@ -1,7 +1,8 @@
+mov
 add
-seq
-sub
+add
+mul
+add
 pow
 mov
-div
 sub

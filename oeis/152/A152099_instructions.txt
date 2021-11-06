@@ -1,6 +1,5 @@
 seq
-max
-mov
-pow
-mov
+mul
 sub
+mul
+add

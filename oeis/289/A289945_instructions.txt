@@ -1,12 +1,10 @@
 add
 lpb
 mov
-max
 sub
 pow
 mul
 add
 lpe
-mul
-add
 mov
+sub

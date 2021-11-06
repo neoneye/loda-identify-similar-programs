@@ -1,7 +1,7 @@
 mov
 lpb
+sub
 mul
 mod
-sub
 lpe
 add

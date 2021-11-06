@@ -1,11 +1,8 @@
-sub
-mov
-sub
 mul
 mov
+add
+bin
+mul
 sub
-sub
-max
-seq
-mov
+div
 mul

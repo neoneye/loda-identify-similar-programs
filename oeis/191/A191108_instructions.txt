@@ -1,6 +1,9 @@
 mov
 div
 seq
+mul
 add
+mul
+div
 mul
 add

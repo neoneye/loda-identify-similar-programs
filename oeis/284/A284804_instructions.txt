@@ -4,8 +4,8 @@ sub
 lpb
 mov
 div
-mod
 mul
+mod
 add
 lpe
 sub

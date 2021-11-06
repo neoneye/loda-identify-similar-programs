@@ -1,5 +1,8 @@
 mov
 add
-seq
 add
+bin
+bin
 add
+mov
+sub

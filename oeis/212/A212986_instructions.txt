@@ -1,12 +1,6 @@
 mov
 mul
-mul
-mov
-cmp
 add
-div
 mul
 div
-div
-add
 add

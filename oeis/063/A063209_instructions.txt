@@ -1,3 +1,9 @@
 mul
-seq
+mov
+mul
+sub
+mod
+mul
+add
+div
 add

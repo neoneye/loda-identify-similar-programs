@@ -1,6 +1,5 @@
 mov
 add
-add
 mov
 lpb
 add
@@ -10,4 +9,3 @@ mul
 trn
 add
 lpe
-sub

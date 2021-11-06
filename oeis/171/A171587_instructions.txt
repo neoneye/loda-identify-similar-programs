@@ -1,2 +1,6 @@
+mov
 seq
+sub
+sub
+div
 mod

@@ -1,7 +1,11 @@
-lpb
 mov
+lpb
 sub
-seq
+mov
+pow
+bin
+add
+trn
 add
 lpe
 mov

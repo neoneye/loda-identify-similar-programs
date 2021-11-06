@@ -1,6 +1,4 @@
-mov
 seq
-sub
-sub
+mov
 cmp
 mov

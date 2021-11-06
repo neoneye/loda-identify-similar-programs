@@ -1,5 +1,11 @@
 add
-seq
+mov
+mov
+lpb
+sub
+add
+add
+lpe
 pow
-div
+mov
 add

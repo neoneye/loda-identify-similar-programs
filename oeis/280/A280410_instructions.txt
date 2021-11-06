@@ -1,8 +1,10 @@
-lpb
-sub
+mov
+pow
+mov
 mod
+pow
+div
+mul
 sub
-lpe
-seq
-seq
-seq
+add
+mov

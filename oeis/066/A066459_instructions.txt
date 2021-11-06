@@ -8,5 +8,4 @@ sub
 lpe
 div
 lpe
-div
 mov

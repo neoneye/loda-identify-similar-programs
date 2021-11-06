@@ -15,4 +15,3 @@ min
 mul
 sub
 mov
-mov

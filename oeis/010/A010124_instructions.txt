@@ -4,6 +4,5 @@ seq
 add
 gcd
 add
-add
-sub
 mov
+sub

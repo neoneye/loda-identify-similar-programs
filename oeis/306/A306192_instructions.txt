@@ -1,4 +1,6 @@
 mov
-trn
+add
 seq
 mul
+mul
+div

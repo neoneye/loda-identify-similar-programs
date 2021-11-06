@@ -1,5 +1,12 @@
-seq
+add
+mov
 lpb
-sub
+bin
+mul
+add
+div
+mov
 lpe
+gcd
+div
 add

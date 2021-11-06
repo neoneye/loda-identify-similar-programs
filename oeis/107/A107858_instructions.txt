@@ -1,5 +1,11 @@
 mul
-div
-seq
-div
+mov
+lpb
 sub
+mov
+mov
+add
+lpe
+mov
+div
+add

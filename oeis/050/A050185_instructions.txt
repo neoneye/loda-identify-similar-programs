@@ -1,16 +1,7 @@
 mov
-add
 mov
 add
-mov
+add
 bin
-mov
-mov
-mov
-add
-add
-add
 add
 div
-sub
-mov

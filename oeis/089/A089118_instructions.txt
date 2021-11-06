@@ -2,6 +2,10 @@ add
 mov
 div
 seq
+mul
 add
 mul
+div
 sub
+mul
+add

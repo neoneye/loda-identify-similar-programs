@@ -1,3 +1,9 @@
-trn
+lpb
+bin
+mul
+lpe
 seq
+mov
+max
+mov
 sub

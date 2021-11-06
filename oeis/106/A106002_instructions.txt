@@ -1,4 +1,7 @@
 seq
-seq
-pow
 mov
+add
+seq
+add
+mov
+mod

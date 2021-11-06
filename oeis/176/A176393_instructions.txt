@@ -1,8 +1,8 @@
 mov
-seq
-lpb
-mov
-mod
-lpe
 mul
-add
+trn
+sub
+trn
+seq
+mul
+sub

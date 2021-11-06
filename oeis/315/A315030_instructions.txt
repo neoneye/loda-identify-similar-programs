@@ -1,7 +1,6 @@
 mov
 mul
 add
-mov
 lpb
 sub
 sub
@@ -12,10 +11,6 @@ mov
 add
 trn
 lpe
+add
 trn
-add
 sub
-lpb
-add
-sub
-lpe

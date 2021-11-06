@@ -1,5 +1,3 @@
-sub
-mov
 mov
 lpb
 sub
@@ -11,6 +9,5 @@ sub
 add
 lpe
 mov
-sub
 mul
-add
+sub

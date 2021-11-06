@@ -3,10 +3,9 @@ mov
 lpb
 sub
 add
-add
-lpe
-lpb
-sub
+mov
+mov
 add
 lpe
 mov
+add

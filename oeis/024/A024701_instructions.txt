@@ -1,4 +1,4 @@
 seq
-sub
-bin
+add
 mul
+add

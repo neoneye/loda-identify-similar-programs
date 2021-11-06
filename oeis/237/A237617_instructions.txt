@@ -1,8 +1,6 @@
-mov
 lpb
 sub
 add
-sub
 add
 add
 add

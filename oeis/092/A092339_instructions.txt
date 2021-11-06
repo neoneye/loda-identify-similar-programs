@@ -1,12 +1,9 @@
-mov
-cmp
-mov
 lpb
+sub
 mov
 div
-seq
+sub
 mod
 add
 lpe
-sub
 mov

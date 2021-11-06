@@ -1,11 +1,11 @@
 mov
-lpb
-sub
-mov
+pow
 mul
 add
+mul
 sub
+div
 add
-lpe
-trn
+sub
 mov
+sub

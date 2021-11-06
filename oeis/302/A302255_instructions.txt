@@ -1,11 +1,8 @@
-mul
-lpb
+mov
+mov
+div
 sub
 mov
-trn
-add
-trn
-trn
-add
-lpe
+div
+sub
 mov

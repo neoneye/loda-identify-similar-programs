@@ -1,6 +1,5 @@
-sub
+add
 bin
 pow
 mul
 add
-mov

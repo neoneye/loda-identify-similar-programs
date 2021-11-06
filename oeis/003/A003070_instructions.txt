@@ -1,8 +1,7 @@
 seq
 lpb
-sub
-div
 add
+div
 add
 lpe
 mov

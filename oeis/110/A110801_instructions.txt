@@ -9,12 +9,12 @@ seq
 sub
 mov
 max
-add
-lpb
 cmp
 mul
-trn
-lpe
 lpe
 div
+mul
 mov
+sub
+div
+add

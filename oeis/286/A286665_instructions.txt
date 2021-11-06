@@ -1,6 +1,12 @@
 mov
-add
 mov
+lpb
+mov
+sub
+add
 seq
 add
+add
+lpe
+mov
 mod

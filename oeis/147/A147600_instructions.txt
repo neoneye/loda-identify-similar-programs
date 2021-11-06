@@ -7,7 +7,6 @@ add
 lpe
 lpb
 sub
-mul
+mov
 lpe
-div
 mov

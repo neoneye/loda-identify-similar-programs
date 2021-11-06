@@ -1,6 +1,4 @@
 seq
 div
 seq
-sub
 div
-add

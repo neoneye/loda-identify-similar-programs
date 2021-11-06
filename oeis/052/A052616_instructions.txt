@@ -1,6 +1,8 @@
 mov
-seq
 gcd
-mov
-mul
 add
+lpb
+mul
+sub
+lpe
+mov

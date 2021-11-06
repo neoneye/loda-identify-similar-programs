@@ -1,10 +1,8 @@
 mov
-mul
 seq
-gcd
-add
-add
-add
+mul
 mov
+add
+div
 sub
 div

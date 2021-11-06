@@ -1,13 +1,8 @@
 mov
-lpb
-add
-trn
-add
-add
 add
 sub
-add
-add
-lpe
+pow
+mul
+bin
 add
 mov

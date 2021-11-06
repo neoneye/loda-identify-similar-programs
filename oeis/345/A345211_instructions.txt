@@ -1,4 +1,8 @@
-add
-seq
-sub
 mul
+div
+add
+div
+mul
+div
+mul
+add

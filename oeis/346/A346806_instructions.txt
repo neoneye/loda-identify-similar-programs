@@ -1,12 +1,6 @@
-mov
 add
-add
-mov
 mov
 div
-lpb
-mov
+min
 add
-sub
-lpe
 add

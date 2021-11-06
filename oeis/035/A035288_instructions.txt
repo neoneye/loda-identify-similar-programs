@@ -1,2 +1,9 @@
-seq
+add
+mov
+bin
+pow
+add
+add
+mul
+div
 mul

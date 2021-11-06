@@ -1,4 +1,8 @@
 trn
 seq
+add
+mul
+add
+add
 mul
 sub

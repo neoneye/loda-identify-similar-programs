@@ -1,12 +1,10 @@
-seq
 mov
-sub
-sub
+mov
 lpb
 sub
-mod
-sub
+mov
+mov
 add
-trn
 lpe
-add
+mul
+mov

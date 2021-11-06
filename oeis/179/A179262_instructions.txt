@@ -1,5 +1,5 @@
 seq
 pow
-max
-mul
 sub
+mul
+add

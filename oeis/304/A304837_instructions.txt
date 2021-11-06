@@ -1,8 +1,8 @@
 mov
 mul
-mov
-seq
-sub
-div
 mul
+add
+bin
+sub
 mov
+mul

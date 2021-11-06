@@ -1,2 +1,6 @@
-seq
-div
+sub
+pow
+add
+bin
+bin
+sub

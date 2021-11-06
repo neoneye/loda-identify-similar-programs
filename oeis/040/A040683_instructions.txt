@@ -1,2 +1,12 @@
+mov
+mov
 dif
-seq
+lpb
+mov
+mov
+gcd
+pow
+lpe
+div
+mov
+add

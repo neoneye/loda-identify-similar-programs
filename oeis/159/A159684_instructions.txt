@@ -1,4 +1,14 @@
 mov
-add
 mov
+lpb
+mov
+sub
+add
+max
 seq
+mov
+add
+add
+lpe
+mov
+mod

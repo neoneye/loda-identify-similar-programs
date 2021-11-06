@@ -10,9 +10,8 @@ pow
 mov
 add
 mul
-mul
+div
 lpe
 mul
-div
-mul
 mov
+div

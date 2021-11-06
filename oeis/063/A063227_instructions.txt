@@ -15,9 +15,8 @@ add
 add
 cmp
 lpe
-add
 mul
 sub
 div
-add
 mov
+add

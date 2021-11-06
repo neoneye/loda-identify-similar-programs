@@ -1,11 +1,2 @@
-mov
-lpb
-sub
-add
-add
-add
-add
-lpe
-add
-div
-mov
+seq
+pow

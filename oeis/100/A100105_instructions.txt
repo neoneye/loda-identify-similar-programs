@@ -1,10 +1,5 @@
 seq
-max
 mov
 pow
-add
-mov
-add
-sub
 sub
 mov

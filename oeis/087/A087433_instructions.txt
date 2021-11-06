@@ -1,10 +1,11 @@
 mov
-seq
+pow
 add
 mov
 pow
 mov
-add
+mul
+mul
 add
 sub
 div

@@ -1,4 +1,3 @@
-mov
 lpb
 mov
 sub
@@ -9,7 +8,4 @@ mov
 add
 div
 add
-sub
-add
-sub
 mov

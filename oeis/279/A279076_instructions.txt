@@ -1,2 +1,9 @@
-seq
+mov
+lpb
+sub
+mov
+div
+add
+lpe
+mov
 sub

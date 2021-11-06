@@ -1,11 +1,7 @@
 mov
-mov
-lpb
-mov
+mul
+trn
+sub
 trn
 seq
 sub
-lpe
-min
-mul
-mov

@@ -1,5 +1,3 @@
-sub
-mov
 mov
 lpb
 sub

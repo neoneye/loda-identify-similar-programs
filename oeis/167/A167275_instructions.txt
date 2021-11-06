@@ -1,6 +1,8 @@
-dif
-seq
-mul
+mov
+lpb
 div
-mul
-div
+sub
+lpe
+add
+add
+pow

@@ -1,6 +1,7 @@
 add
-mul
-add
 seq
+mul
+sub
 div
 mul
+add

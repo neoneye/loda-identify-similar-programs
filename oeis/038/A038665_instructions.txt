@@ -1,14 +1,6 @@
 add
 mov
-mul
-bin
+seq
 add
+mul
 mov
-div
-add
-add
-add
-mul
-sub
-div
-add

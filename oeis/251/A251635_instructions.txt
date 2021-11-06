@@ -1,8 +1,6 @@
 seq
-mov
-div
-sub
-dif
 pow
-mul
-div
+add
+sub
+bin
+mov

@@ -1,5 +1,7 @@
-add
 seq
+pow
+div
 sub
 div
+add
 mod

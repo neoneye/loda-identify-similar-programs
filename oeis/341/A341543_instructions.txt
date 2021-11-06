@@ -6,6 +6,8 @@ add
 add
 add
 add
-lpe
 add
+lpe
 mov
+add
+mul

@@ -1,5 +1,10 @@
 mul
+mov
 add
-pow
-div
-seq
+mul
+mov
+lpb
+sub
+mul
+lpe
+mov

@@ -1,5 +1,8 @@
 seq
+mov
+add
 seq
-pow
 add
 mov
+mod
+add

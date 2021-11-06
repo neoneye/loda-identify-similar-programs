@@ -1,4 +1,2 @@
 mul
-trn
-seq
 seq

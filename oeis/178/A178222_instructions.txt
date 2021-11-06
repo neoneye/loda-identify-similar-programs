@@ -4,5 +4,4 @@ trn
 seq
 add
 lpe
-mul
 mov

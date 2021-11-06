@@ -1,11 +1,8 @@
-mov
-bin
+add
 pow
-mov
 lpb
 div
 add
 lpe
 mov
 sub
-div

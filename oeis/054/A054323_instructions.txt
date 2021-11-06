@@ -1,3 +1,9 @@
 mul
 add
-seq
+mov
+pow
+div
+mov
+bin
+mul
+mov

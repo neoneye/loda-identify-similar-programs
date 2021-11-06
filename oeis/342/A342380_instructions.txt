@@ -1,5 +1,2 @@
-lpb
-bin
-lpe
 seq
 trn

@@ -1,3 +1,6 @@
 seq
-trn
 add
+min
+mul
+add
+mov

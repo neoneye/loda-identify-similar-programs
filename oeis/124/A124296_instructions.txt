@@ -1,8 +1,4 @@
-trn
 seq
-mov
-add
-mul
+bin
 mul
 add
-mov

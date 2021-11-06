@@ -1,2 +1,9 @@
 pow
-seq
+lpb
+sub
+add
+add
+trn
+lpe
+mov
+div

@@ -1,3 +1,14 @@
+lpb
+sub
 add
-seq
-div
+mov
+mul
+add
+mov
+add
+add
+add
+sub
+lpe
+mov
+add

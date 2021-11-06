@@ -1,4 +1,2 @@
-mov
 seq
-mov
 mul

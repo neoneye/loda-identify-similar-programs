@@ -1,11 +1,5 @@
 pow
-lpb
 add
-add
+mul
 div
-lpe
-lpb
-add
-trn
-lpe
-mov
+sub

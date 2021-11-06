@@ -3,10 +3,7 @@ lpb
 mov
 div
 mod
-mov
-cmp
-add
 mul
+max
 lpe
-div
 mov

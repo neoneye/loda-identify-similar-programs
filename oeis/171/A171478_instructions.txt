@@ -1,6 +1,10 @@
-seq
-mul
+add
+mov
+lpb
 sub
-bin
 mul
-div
+add
+mul
+add
+lpe
+mov

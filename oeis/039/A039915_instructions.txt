@@ -1,6 +1,6 @@
-mov
-cmp
-add
 seq
-add
+mov
+div
+max
+mov
 sub

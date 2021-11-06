@@ -1,8 +1,8 @@
 lpb
-mov
-mov
-seq
-lpe
-mul
+pow
 sub
-div
+bin
+add
+trn
+lpe
+sub

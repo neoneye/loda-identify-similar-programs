@@ -4,12 +4,6 @@ sub
 add
 add
 sub
+add
 lpe
-mov
-add
-mov
-add
-add
-sub
-div
 mov

@@ -6,8 +6,9 @@ add
 add
 lpe
 lpb
-div
+sub
 add
 lpe
 mov
 add
+mul

@@ -4,9 +4,9 @@ lpb
 sub
 add
 add
-add
-add
-add
 lpe
-div
+mul
 mov
+sub
+div
+add

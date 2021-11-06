@@ -1,2 +1,8 @@
-seq
-div
+mov
+mul
+bin
+add
+mov
+add
+mul
+mul

@@ -5,7 +5,6 @@ sub
 add
 mul
 lpe
-sub
-mul
+mov
 mul
 add

@@ -1,11 +1,7 @@
 mov
-mov
 lpb
-mov
 sub
 mov
-mov
-sub
 lpb
 mov
 sub

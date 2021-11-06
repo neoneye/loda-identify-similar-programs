@@ -5,13 +5,13 @@ seq
 mov
 lpb
 div
+div
 add
 mod
 mul
 add
-div
+sub
 mov
 mul
-sub
 lpe
 mov

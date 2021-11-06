@@ -1,4 +1,5 @@
 mul
+add
 seq
 div
 add

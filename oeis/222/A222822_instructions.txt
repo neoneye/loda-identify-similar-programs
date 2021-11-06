@@ -1,6 +1,5 @@
 mov
 mov
-add
 mov
 lpb
 mov
@@ -10,9 +9,7 @@ mov
 seq
 mul
 add
-cmp
 mul
-add
 mov
 sub
 mul
@@ -30,3 +27,4 @@ mov
 mul
 add
 mov
+add

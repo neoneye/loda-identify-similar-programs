@@ -7,11 +7,9 @@ add
 trn
 seq
 mov
-mul
+add
 add
 lpe
-min
-mul
 mov
-sub
+mod
 add

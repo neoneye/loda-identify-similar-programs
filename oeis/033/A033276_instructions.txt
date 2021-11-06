@@ -1,9 +1,10 @@
-lpb
+mov
 sub
-mov
-mov
-max
-seq
-lpe
 add
+bin
+mov
+add
+bin
+mul
+mov
 div

@@ -1,14 +1,5 @@
 mul
-max
+div
 sub
-mov
-seq
-sub
-sub
-mov
-seq
-mul
 div
 add
-sub
-mov

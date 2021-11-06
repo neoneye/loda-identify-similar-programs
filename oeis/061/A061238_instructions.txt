@@ -10,14 +10,10 @@ max
 cmp
 mov
 lpb
-add
 mul
 trn
 add
 lpe
 lpe
-sub
-div
-mul
-add
 mov
+sub

@@ -1,5 +1,5 @@
-sub
-bin
+mov
 seq
+sub
 add
 mod

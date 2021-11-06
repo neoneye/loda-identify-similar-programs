@@ -1,7 +1,8 @@
 seq
+trn
 mov
 pow
-div
+mov
+sub
 mul
 add
-mov

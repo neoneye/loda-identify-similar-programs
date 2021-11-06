@@ -1,7 +1,7 @@
 add
 mov
 gcd
+add
 seq
-mul
 div
-mul
+mov

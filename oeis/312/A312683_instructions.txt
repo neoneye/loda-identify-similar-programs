@@ -1,5 +1,4 @@
 mov
-add
 mov
 lpb
 mov
@@ -26,3 +25,4 @@ add
 add
 lpe
 mov
+add

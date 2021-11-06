@@ -1,6 +1,4 @@
-add
 seq
-sub
-bin
+pow
 div
 mul

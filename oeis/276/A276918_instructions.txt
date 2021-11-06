@@ -1,4 +1,15 @@
-add
-seq
+mov
+pow
+lpb
+sub
+mov
+lpe
+mov
+pow
 div
+pow
+gcd
+sub
+mov
+mul
 add

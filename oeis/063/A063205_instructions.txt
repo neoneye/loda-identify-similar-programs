@@ -1,11 +1,9 @@
 mul
 mov
-mov
+mul
+sub
+mod
 mul
 add
 div
-add
-add
-mod
-add
 add

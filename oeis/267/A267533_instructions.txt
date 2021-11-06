@@ -1,7 +1,12 @@
-seq
-div
 mov
-max
+lpb
+sub
+add
+lpe
+sub
+mul
+mov
+bin
 add
 mod
 mov

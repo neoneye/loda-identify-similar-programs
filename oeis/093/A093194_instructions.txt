@@ -1,6 +1,6 @@
+add
 seq
+pow
 sub
-bin
 mul
 add
-mul

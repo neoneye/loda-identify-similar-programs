@@ -14,7 +14,7 @@ sub
 lpe
 lpb
 add
-div
+mov
 lpe
 div
 mov

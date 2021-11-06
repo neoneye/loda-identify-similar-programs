@@ -11,3 +11,5 @@ add
 lpe
 mov
 sub
+mul
+add

@@ -1,3 +1,3 @@
-seq
+dif
 seq
 mul

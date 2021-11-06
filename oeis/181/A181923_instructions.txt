@@ -1,4 +1,4 @@
-mov
+add
 seq
-mov
+sub
 mod

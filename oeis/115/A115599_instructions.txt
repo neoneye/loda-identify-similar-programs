@@ -6,7 +6,7 @@ add
 add
 add
 add
-lpe
-div
 add
+lpe
 mov
+add

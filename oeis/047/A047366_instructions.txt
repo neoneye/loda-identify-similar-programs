@@ -1,6 +1,10 @@
+mul
 add
-seq
-add
-div
-add
+mov
 sub
+div
+sub
+div
+mod
+add
+mov

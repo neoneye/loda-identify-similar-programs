@@ -1,11 +1,10 @@
-seq
-sub
-mov
-add
 mul
 mov
-cmp
-add
+lpb
+div
 div
 add
+add
+lpe
 mov
+sub

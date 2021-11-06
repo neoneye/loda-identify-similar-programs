@@ -1,10 +1,12 @@
 add
+mov
 lpb
-trn
-seq
-lpe
-lpb
-div
+dif
 add
 lpe
+lpb
+mod
 mov
+lpe
+mov
+sub

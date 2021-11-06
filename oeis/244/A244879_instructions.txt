@@ -3,6 +3,4 @@ add
 pow
 seq
 mul
-sub
 div
-add

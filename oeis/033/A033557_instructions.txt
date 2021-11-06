@@ -1,4 +1,6 @@
 mov
+add
 seq
+add
 add
 add

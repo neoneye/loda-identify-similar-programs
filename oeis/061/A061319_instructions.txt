@@ -1,13 +1,7 @@
-mov
-mov
 add
-mov
-lpb
-sub
+bin
 add
-lpe
-mov
 pow
 add
-mul
+bin
 div

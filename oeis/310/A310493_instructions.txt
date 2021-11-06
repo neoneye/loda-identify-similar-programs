@@ -1,5 +1,5 @@
 mul
 mov
-mul
 seq
+mul
 sub

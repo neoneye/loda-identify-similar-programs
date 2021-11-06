@@ -1,2 +1,14 @@
-trn
-seq
+mov
+mov
+lpb
+sub
+add
+add
+sub
+add
+sub
+mov
+add
+lpe
+mov
+add

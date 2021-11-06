@@ -1,3 +1,9 @@
 seq
-max
 pow
+mul
+pow
+mul
+div
+sub
+div
+add

@@ -1,11 +1,8 @@
-lpb
+mov
+pow
+gcd
 sub
-mov
-mov
-max
-seq
-mul
-lpe
+div
 mov
 mul
 add

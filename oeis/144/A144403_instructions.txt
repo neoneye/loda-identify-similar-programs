@@ -1,6 +1,4 @@
 seq
-add
+bin
 mul
 sub
-sub
-mov

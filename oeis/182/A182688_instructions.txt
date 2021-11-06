@@ -1,11 +1,10 @@
-sub
 mov
-lpb
-mod
+mov
 add
 sub
+clr
 add
-lpe
+gcd
+sub
 add
 mod
-mov

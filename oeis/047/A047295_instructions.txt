@@ -1,11 +1,5 @@
-add
 mov
-lpb
-trn
+seq
 add
-trn
-sub
-add
-lpe
+div
 mov
-sub

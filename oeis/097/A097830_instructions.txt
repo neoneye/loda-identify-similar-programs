@@ -1,5 +1,3 @@
 add
 seq
-sub
 div
-add

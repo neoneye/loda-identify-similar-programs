@@ -1,5 +1,12 @@
-trn
-seq
-div
+lpb
+sub
+add
+mov
+mov
+add
+add
+add
+lpe
+mov
 mul
 add

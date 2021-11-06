@@ -1,8 +1,4 @@
-lpb
-mov
 sub
+mul
+add
 seq
-add
-lpe
-add
-mov

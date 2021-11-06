@@ -4,11 +4,11 @@ seq
 mov
 lpb
 mov
+div
 add
 mod
 mul
 add
-div
 div
 mul
 lpe

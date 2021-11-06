@@ -2,15 +2,5 @@ mov
 add
 mul
 add
-pow
-sub
+mul
 div
-add
-lpb
-add
-trn
-lpe
-mov
-div
-mov
-sub

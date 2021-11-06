@@ -1,8 +1,5 @@
-lpb
-mov
-sub
-seq
+mul
 add
-lpe
+bin
+div
 add
-mov

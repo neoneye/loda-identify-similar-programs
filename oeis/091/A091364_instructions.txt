@@ -1,4 +1,7 @@
 mov
-seq
+pow
+lpb
 mul
-div
+sub
+lpe
+mov

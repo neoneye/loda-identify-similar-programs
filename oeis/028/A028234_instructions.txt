@@ -9,13 +9,10 @@ cmp
 cmp
 sub
 lpe
-mov
 lpb
 mov
 mod
 cmp
 pow
 div
-add
 lpe
-mov

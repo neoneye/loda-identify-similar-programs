@@ -1,3 +1,5 @@
 seq
-pow
+add
+bin
 div
+mul

@@ -1,11 +1,7 @@
 mov
+mul
+mod
 add
-lpb
-trn
-mov
 mul
 bin
-add
-lpe
-mov
 div

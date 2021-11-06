@@ -1,3 +1,9 @@
 add
-seq
-sub
+mov
+pow
+add
+mov
+pow
+add
+mov
+add

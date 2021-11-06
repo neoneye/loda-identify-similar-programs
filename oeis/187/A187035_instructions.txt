@@ -1,11 +1,6 @@
 add
 mov
-add
-mov
-mov
 bin
-div
-mul
 add
 div
 mov

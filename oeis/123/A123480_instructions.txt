@@ -2,4 +2,3 @@ add
 seq
 pow
 div
-mul

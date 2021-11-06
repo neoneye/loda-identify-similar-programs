@@ -1,9 +1,10 @@
-lpb
 mov
+mov
+lpb
 sub
-seq
 add
-div
+mul
+mov
 lpe
 mov
 div

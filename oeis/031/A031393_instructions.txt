@@ -1,4 +1,3 @@
 mul
+add
 seq
-mul
-sub

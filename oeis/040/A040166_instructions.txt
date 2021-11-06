@@ -1,6 +1,11 @@
 dif
-seq
+sub
+mod
 mul
+add
+mul
+pow
 div
 mul
 div
+add

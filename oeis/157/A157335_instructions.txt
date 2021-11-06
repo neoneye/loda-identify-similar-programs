@@ -3,6 +3,4 @@ mul
 add
 mul
 seq
-sub
 div
-add

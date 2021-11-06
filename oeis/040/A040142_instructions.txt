@@ -1,9 +1,6 @@
 seq
-add
-pow
-add
+dif
 mul
-add
 div
 mul
-sub
+add

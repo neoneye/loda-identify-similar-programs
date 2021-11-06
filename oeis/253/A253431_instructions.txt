@@ -8,6 +8,7 @@ add
 mov
 seq
 lpb
+mov
 add
 sub
 div

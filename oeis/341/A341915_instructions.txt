@@ -1,10 +1,11 @@
+mov
 lpb
 mov
 div
-seq
-gcd
+add
+mod
 add
 mul
 lpe
-div
 mov
+div

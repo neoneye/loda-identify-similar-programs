@@ -1,10 +1,7 @@
 add
-mov
-div
 seq
-add
+sub
 mul
-add
 div
 mul
-sub
+add

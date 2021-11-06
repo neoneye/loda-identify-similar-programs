@@ -1,5 +1,4 @@
 mul
 seq
-div
-sub
+add
 div

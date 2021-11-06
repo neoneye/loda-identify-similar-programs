@@ -1,8 +1,6 @@
 seq
+seq
 mov
 add
-mul
-lpb
-mul
+mov
 sub
-lpe

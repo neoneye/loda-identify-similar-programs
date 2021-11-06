@@ -1,6 +1,7 @@
-seq
-sub
+add
 lpb
-bin
+div
+mul
 lpe
+seq
 add

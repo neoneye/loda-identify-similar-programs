@@ -1,12 +1,9 @@
 mov
+mod
 lpb
-gcd
-add
-add
 mul
+add
 sub
 lpe
-div
 mul
 add
-mov

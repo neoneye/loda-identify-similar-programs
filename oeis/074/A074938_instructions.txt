@@ -1,4 +1,10 @@
+mov
+div
 seq
+mul
+add
+mul
+div
 mul
 div
 mul

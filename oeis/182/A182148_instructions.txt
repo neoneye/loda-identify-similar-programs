@@ -1,0 +1,4 @@
+mov
+trn
+seq
+pow

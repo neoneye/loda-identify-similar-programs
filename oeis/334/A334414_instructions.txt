@@ -1,3 +1,5 @@
+add
 seq
-bin
-mov
+div
+add
+mod

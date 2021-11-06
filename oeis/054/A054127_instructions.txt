@@ -1,4 +1,10 @@
 mov
-seq
+pow
+add
+mul
 sub
+div
+add
+sub
+mov
 sub

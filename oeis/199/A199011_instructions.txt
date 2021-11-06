@@ -1,3 +1,8 @@
-trn
+lpb
+mov
+sub
 add
-seq
+trn
+lpe
+bin
+mov

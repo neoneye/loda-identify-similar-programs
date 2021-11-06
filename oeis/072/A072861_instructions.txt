@@ -1,2 +1,15 @@
-seq
+add
+mov
+lpb
+add
+mov
+dif
+cmp
+cmp
+mul
+sub
+add
+lpe
+mov
+add
 pow

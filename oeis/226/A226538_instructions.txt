@@ -1,11 +1,8 @@
 mov
-mov
-lpb
-trn
+cmp
 mov
 add
+add
+seq
 mov
 sub
-sub
-lpe
-mov

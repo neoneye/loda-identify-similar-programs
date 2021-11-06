@@ -1,5 +1,5 @@
 mov
-seq
 mov
-cmp
+seq
 add
+mov

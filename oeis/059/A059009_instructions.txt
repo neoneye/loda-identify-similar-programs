@@ -1,3 +1,15 @@
+mov
 mul
-seq
+mov
+mov
+lpb
+div
+add
 sub
+lpe
+gcd
+mod
+mov
+mul
+add
+mov

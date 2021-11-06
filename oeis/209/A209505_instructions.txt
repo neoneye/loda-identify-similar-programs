@@ -1,6 +1,5 @@
 add
 mov
-mov
 lpb
 sub
 add

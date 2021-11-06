@@ -1,14 +1,6 @@
 mod
-mov
-lpb
-sub
-mov
-sub
-add
 pow
+dif
+mul
 trn
 add
-lpe
-div
-add
-mov

@@ -1,7 +1,7 @@
 mov
 mov
-add
 pow
+add
 lpb
 sub
 mov
@@ -13,5 +13,6 @@ max
 cmp
 mul
 lpe
-div
 mov
+sub
+div

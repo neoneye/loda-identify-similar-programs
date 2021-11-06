@@ -1,9 +1,8 @@
-lpb
 mov
+lpb
 sub
+add
 mul
-seq
-sub
 add
 lpe
 mov

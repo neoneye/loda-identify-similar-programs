@@ -5,6 +5,7 @@ mov
 sub
 sub
 seq
+seq
 add
 lpe
 mov

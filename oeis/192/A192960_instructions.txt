@@ -1,6 +1,16 @@
 mov
-seq
+mov
+mov
+lpb
 sub
+sub
+add
+add
+mov
 mov
 add
+add
+lpe
+mul
+mov
 sub

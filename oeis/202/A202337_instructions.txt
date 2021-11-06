@@ -9,5 +9,4 @@ add
 mov
 mul
 lpe
-add
 mov

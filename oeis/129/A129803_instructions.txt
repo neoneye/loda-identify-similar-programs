@@ -1,4 +1,7 @@
 add
 seq
 pow
+sub
 div
+mul
+add

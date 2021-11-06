@@ -1,3 +1,8 @@
 mov
-seq
 add
+mul
+bin
+add
+add
+mul
+div

@@ -3,7 +3,6 @@ mov
 mul
 mov
 add
-add
 mov
 lpb
 sub

@@ -14,5 +14,4 @@ add
 div
 sub
 div
-add
 mov

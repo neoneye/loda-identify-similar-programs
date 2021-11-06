@@ -1,3 +1,7 @@
-seq
+mov
+pow
+bin
+mul
 trn
 add
+mov

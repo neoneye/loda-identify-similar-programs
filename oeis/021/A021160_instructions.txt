@@ -3,7 +3,6 @@ lpb
 add
 mov
 mov
-mov
 seq
 lpe
 div

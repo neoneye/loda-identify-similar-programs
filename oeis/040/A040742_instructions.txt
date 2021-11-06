@@ -2,10 +2,7 @@ seq
 seq
 mov
 mul
-div
-mul
-add
-sub
-div
 sub
 mov
+div
+sub

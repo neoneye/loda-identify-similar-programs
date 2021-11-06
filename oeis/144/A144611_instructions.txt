@@ -6,13 +6,7 @@ sub
 add
 trn
 seq
-mov
-mul
 add
-mov
 lpe
-min
-mul
-sub
-mod
 mov
+mod

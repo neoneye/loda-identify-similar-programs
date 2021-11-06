@@ -1,16 +1,8 @@
-mov
-sub
-mov
 lpb
-mov
 add
 sub
-trn
 lpe
-mov
-mov
-cmp
 add
 div
-add
 mov
+add

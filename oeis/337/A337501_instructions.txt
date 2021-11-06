@@ -1,16 +1,6 @@
 add
 mov
-mov
-mov
-mul
-lpb
-mul
-mul
-add
-add
 div
-mov
-lpe
+add
 mul
 div
-mov

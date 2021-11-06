@@ -20,4 +20,3 @@ lpe
 mov
 div
 add
-mov

@@ -1,11 +1,10 @@
-mov
 lpb
 add
 sub
 div
 lpe
-mod
+gcd
+sub
+mul
 add
 mov
-add
-sub

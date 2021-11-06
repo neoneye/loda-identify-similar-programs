@@ -5,10 +5,12 @@ add
 add
 lpe
 lpb
-div
+sub
 add
 lpe
-mov
+mul
 div
 add
 div
+mov
+sub

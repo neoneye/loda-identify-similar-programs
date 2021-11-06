@@ -1,8 +1,11 @@
-seq
 add
-mul
-add
+mov
 pow
+mul
+sub
+bin
+div
+mov
 sub
 div
 add

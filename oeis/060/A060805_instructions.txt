@@ -1,10 +1,7 @@
 mov
-seq
-add
-mov
-cmp
-add
-mov
+gcd
 div
+max
 add
-sub
+pow
+div

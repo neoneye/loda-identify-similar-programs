@@ -1,4 +1,9 @@
 mul
 add
+mov
 seq
+add
+seq
+add
+mov
 div

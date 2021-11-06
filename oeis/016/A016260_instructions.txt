@@ -1,7 +1,9 @@
-lpb
 mov
+lpb
 sub
-seq
+add
+mul
+mul
 add
 lpe
 add

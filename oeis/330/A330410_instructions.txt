@@ -1,4 +1,4 @@
 seq
-max
+trn
 mul
-sub
+add

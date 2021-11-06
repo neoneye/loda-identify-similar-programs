@@ -6,6 +6,5 @@ div
 mul
 add
 mul
-sub
 div
-add
+sub

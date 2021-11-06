@@ -1,7 +1,9 @@
-max
-seq
-trn
-add
-gcd
-sub
 mov
+seq
+add
+lpb
+div
+pow
+lpe
+mov
+sub

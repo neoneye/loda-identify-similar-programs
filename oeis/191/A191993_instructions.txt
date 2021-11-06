@@ -1,0 +1,9 @@
+mul
+add
+mov
+div
+bin
+mov
+pow
+add
+mov

@@ -1,5 +1,6 @@
 mul
 seq
+div
 mul
 div
 mul

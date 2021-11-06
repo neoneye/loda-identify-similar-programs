@@ -1,6 +1,6 @@
 add
 mov
-mov
+mul
 lpb
 sub
 mov
@@ -8,6 +8,7 @@ dif
 cmp
 cmp
 mul
+sub
 add
 lpe
 mov

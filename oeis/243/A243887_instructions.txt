@@ -1,5 +1,7 @@
 seq
-sub
-bin
+add
 mul
+add
 sub
+mul
+add

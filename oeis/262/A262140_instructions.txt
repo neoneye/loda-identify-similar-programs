@@ -8,5 +8,8 @@ add
 add
 add
 lpe
-sub
+add
 mov
+sub
+mul
+add

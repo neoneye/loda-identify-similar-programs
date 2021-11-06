@@ -1,3 +1,7 @@
+mov
 seq
-trn
+sub
+mov
+cmp
 add
+mov

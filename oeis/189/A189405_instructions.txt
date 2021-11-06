@@ -3,6 +3,4 @@ seq
 add
 add
 add
-add
 sub
-mov

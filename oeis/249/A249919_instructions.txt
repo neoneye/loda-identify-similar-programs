@@ -1,8 +1,13 @@
-mul
 mov
-cmp
+sub
+div
+lpb
 add
 add
-seq
+mov
+div
+add
+lpe
+mov
 sub
 mul

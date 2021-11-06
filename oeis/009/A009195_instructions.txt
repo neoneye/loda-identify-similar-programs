@@ -2,4 +2,3 @@ mov
 add
 seq
 gcd
-mov

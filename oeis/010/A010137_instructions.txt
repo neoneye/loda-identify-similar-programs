@@ -1,5 +1,8 @@
-seq
+gcd
 mul
-trn
+mod
+mov
 div
 add
+add
+sub

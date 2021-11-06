@@ -1,10 +1,5 @@
 lpb
 mov
-mov
-cmp
-mov
-add
-div
 sub
 seq
 add

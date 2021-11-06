@@ -1,3 +1,8 @@
 seq
 seq
+mov
+mul
+sub
+mov
+div
 sub

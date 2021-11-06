@@ -1,5 +1,4 @@
 mov
+pow
 seq
-add
 mul
-mov

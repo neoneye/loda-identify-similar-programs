@@ -1,8 +1,10 @@
 mov
-seq
-add
+mod
 mov
+trn
+mov
+mul
+add
 div
 add
 mov
-add

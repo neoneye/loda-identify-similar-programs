@@ -1,4 +1,16 @@
+add
 mov
-seq
+lpb
+mov
+mov
+cmp
+add
+dif
+sub
+cmp
+cmp
+add
+lpe
 add
 pow
+mov

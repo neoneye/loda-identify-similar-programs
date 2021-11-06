@@ -8,8 +8,11 @@ add
 add
 add
 lpe
+add
+mov
+sub
+mul
 sub
 div
 mul
 add
-mov

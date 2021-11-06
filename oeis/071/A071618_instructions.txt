@@ -1,11 +1,4 @@
-mov
-mov
-lpb
-sub
-add
-add
-lpe
+seq
 add
 div
 sub
-mov

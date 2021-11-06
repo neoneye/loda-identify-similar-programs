@@ -14,4 +14,3 @@ lpe
 div
 mov
 add
-mod

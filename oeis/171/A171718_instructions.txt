@@ -1,7 +1,9 @@
-seq
-add
-add
+mov
+pow
 mul
+add
+pow
+mov
 sub
 div
 add

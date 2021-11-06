@@ -6,6 +6,4 @@ mov
 bin
 mul
 sub
-sub
 div
-add

@@ -1,14 +1,8 @@
 mov
-mul
-mul
-sub
-mul
 add
-lpb
-mov
-mov
-lpe
+pow
 mul
-add
+trn
+mul
 mov
 mul

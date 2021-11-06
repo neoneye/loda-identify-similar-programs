@@ -1,5 +1,15 @@
 mul
+sub
+mov
+sub
 add
 seq
+mov
 mul
+add
+mul
+mov
 sub
+div
+add
+div

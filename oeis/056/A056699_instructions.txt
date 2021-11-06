@@ -1,5 +1,10 @@
 mov
+mod
 add
-seq
+mov
+gcd
+sub
+bin
 sub
 mov
+sub

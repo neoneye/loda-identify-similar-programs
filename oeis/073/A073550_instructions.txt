@@ -1,5 +1,10 @@
-seq
-trn
+add
+mov
+pow
+sub
+div
 mul
+sub
+mov
 div
 add

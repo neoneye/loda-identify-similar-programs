@@ -1,11 +1,4 @@
 seq
-add
-mov
-add
-mov
 sub
 mov
-sub
-mod
 add
-mod

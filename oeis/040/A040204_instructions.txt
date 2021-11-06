@@ -1,6 +1,12 @@
-seq
+gcd
 mul
-div
-mul
-div
+mod
+mov
 add
+add
+div
+mul
+add
+mul
+div
+sub

@@ -1,11 +1,7 @@
 add
 lpb
-mov
 seq
-mov
-mov
-min
 add
 lpe
-add
 mov
+div

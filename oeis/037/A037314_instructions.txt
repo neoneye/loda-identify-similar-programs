@@ -1,8 +1,13 @@
-lpb
-sub
 mov
-max
-seq
+lpb
+mul
+mov
+div
 add
+mod
+mul
+add
+mul
 lpe
 mov
+div

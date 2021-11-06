@@ -1,9 +1,8 @@
-seq
+add
+mov
+pow
 add
 pow
-sub
+mov
 div
-mul
 sub
-div
-add

@@ -1,3 +1,9 @@
+mul
 add
-seq
+mul
+div
+add
+mul
+sub
+div
 sub

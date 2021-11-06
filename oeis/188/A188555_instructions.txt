@@ -1,6 +1,10 @@
-mov
-seq
 add
+mov
+mul
+mov
+sub
+mov
+bin
 add
 mov
 add

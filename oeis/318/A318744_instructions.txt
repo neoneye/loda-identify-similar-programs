@@ -12,11 +12,6 @@ add
 pow
 add
 lpe
-mov
-lpb
-mov
-mov
 lpe
-lpe
+mov
 add
-mov

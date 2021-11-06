@@ -1,5 +1,12 @@
-add
 mul
-seq
+mov
+add
+add
+mov
+lpb
+mul
+div
+lpe
+add
 div
 add

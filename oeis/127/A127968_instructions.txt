@@ -1,6 +1,12 @@
-max
-seq
-mod
+mov
+lpb
+sub
 add
 add
+lpe
+lpb
+add
+sub
+add
+lpe
 mov

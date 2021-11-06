@@ -1,6 +1,3 @@
-seq
-lpb
-add
 mul
-trn
-lpe
+seq
+sub

@@ -1,4 +1,9 @@
 mov
-seq
+mul
 add
-mov
+add
+mod
+add
+sub
+div
+add

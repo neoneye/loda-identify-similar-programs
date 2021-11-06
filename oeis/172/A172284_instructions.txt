@@ -19,6 +19,7 @@ add
 trn
 lpe
 sub
+mod
 lpe
 sub
 add

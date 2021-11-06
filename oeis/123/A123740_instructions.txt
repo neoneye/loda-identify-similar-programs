@@ -1,12 +1,2 @@
-mov
-lpb
-lpb
-mov
-mov
 seq
-mov
-lpe
-lpe
-sub
-mod
-mov
+seq

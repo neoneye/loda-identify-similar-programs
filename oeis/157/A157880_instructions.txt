@@ -1,6 +1,4 @@
-seq
-pow
 mul
 add
-pow
+seq
 div

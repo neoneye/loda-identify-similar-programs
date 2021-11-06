@@ -1,13 +1,5 @@
-add
-seq
 mov
+pow
+mod
 mul
-div
-sub
-sub
-div
-sub
-div
-add
-sub
 add

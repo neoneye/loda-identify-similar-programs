@@ -1,6 +1,7 @@
-seq
-mov
+add
+lpb
+add
 bin
-sub
 mul
-sub
+lpe
+seq

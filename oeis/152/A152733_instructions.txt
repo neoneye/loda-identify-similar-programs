@@ -1,5 +1,6 @@
-seq
-div
+mov
+pow
 add
 div
+mov
 mul

@@ -5,7 +5,5 @@ pow
 add
 div
 add
-sub
-div
-add
 mov
+div

@@ -1,6 +1,5 @@
 seq
 add
+mul
 mod
-sub
-mov
 add

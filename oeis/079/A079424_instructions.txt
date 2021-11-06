@@ -1,10 +1,9 @@
-add
 mul
+add
 mov
-add
 seq
 add
 seq
 add
-sub
+mov
 div

@@ -1,11 +1,9 @@
-mov
-mov
 add
 pow
+add
 mul
 div
-sub
+mul
 sub
 div
 add
-mov

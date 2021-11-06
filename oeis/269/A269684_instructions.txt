@@ -12,8 +12,7 @@ add
 add
 lpe
 mul
-sub
 div
-mul
-add
 mov
+sub
+mul

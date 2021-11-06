@@ -1,12 +1,9 @@
-mod
-pow
 mov
-min
-sub
-add
 mul
+gcd
+add
+div
+mul
+add
 sub
-add
-add
 mod
-add

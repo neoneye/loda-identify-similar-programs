@@ -1,9 +1,11 @@
 mov
 mul
 mov
-seq
-add
+mul
+div
+mul
 sub
 div
 add
-mov
+add
+add
