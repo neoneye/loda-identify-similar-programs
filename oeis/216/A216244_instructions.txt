@@ -1,4 +1,4 @@
+add
 seq
-sub
-bin
-mul
+pow
+div

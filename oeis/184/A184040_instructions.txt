@@ -8,6 +8,5 @@ sub
 trn
 lpe
 mov
-sub
 mul
-add
+sub

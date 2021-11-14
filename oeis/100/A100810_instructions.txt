@@ -1,12 +1,3 @@
 seq
 add
-seq
-seq
-add
-seq
-div
-add
-mul
-div
-seq
-div
+mod

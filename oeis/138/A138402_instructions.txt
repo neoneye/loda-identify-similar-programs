@@ -1,6 +1,5 @@
 seq
-pow
 max
+pow
 bin
-div
 mul

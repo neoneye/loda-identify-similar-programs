@@ -6,6 +6,5 @@ add
 mov
 div
 add
-sub
 div
-add
+sub

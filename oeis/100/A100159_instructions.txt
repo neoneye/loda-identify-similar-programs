@@ -1,13 +1,8 @@
 mov
-add
-pow
 sub
-mov
 mul
-mov
-mul
+sub
+pow
+pow
 add
-mul
-mov
-mul
 add

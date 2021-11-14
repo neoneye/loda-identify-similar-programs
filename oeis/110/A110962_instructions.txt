@@ -1,2 +1,9 @@
-seq
-sub
+add
+lpb
+dif
+lpe
+add
+lpb
+dif
+lpe
+div

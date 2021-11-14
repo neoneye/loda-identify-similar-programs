@@ -1,11 +1,3 @@
 add
-mov
-lpb
-sub
-mov
-add
-mov
-mul
-lpe
-mov
+seq
 div

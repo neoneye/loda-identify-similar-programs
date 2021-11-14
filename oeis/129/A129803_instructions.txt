@@ -1,7 +1,13 @@
 add
-seq
-pow
+mov
+lpb
 sub
+add
+add
+add
+lpe
+pow
+mov
 div
 mul
 add

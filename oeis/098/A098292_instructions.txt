@@ -1,10 +1,10 @@
 lpb
 sub
+add
 mov
-max
-seq
+mul
+add
 add
 lpe
 mov
-mul
 add

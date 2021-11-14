@@ -1,6 +1,6 @@
-add
+min
 mov
-pow
+bin
+bin
 mov
-div
 mod

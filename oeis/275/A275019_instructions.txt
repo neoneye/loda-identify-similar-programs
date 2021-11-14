@@ -1,11 +1,9 @@
 add
 bin
 mov
-mov
 lpb
 dif
 add
 lpe
 mov
-sub
 div

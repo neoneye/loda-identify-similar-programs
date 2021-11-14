@@ -1,4 +1,4 @@
+add
 seq
-add
-mul
-add
+pow
+div

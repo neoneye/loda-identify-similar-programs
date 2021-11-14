@@ -11,4 +11,3 @@ cmp
 add
 lpe
 mov
-sub

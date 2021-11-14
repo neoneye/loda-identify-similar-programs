@@ -1,6 +1,10 @@
 add
 mov
+pow
+sub
+bin
 mul
-seq
+add
 mul
+mov
 div

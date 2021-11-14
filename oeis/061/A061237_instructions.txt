@@ -3,14 +3,14 @@ add
 pow
 lpb
 sub
+add
 mov
 seq
 sub
-add
 mov
 max
 cmp
 mul
 lpe
 mov
-sub
+add

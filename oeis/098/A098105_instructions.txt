@@ -1,2 +1,6 @@
 seq
-seq
+mov
+pow
+pow
+sub
+mov

@@ -7,7 +7,7 @@ sub
 mov
 seq
 sub
-sub
+add
 mov
 max
 cmp

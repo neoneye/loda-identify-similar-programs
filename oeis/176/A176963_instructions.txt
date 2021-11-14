@@ -1,12 +1,11 @@
 lpb
-mul
 mov
 sub
 gcd
 add
 mul
 sub
-lpe
-mov
 mul
+lpe
 add
+mov

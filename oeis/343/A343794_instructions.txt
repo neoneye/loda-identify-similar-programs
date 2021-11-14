@@ -1,6 +1,3 @@
-mov
-add
-mov
 add
 seq
-sub
+div

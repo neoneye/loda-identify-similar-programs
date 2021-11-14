@@ -1,5 +1,13 @@
 add
-seq
+lpb
+sub
+mov
+mul
+add
+add
+add
+lpe
+mov
 sub
 mul
 add

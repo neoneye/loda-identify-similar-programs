@@ -3,9 +3,7 @@ mul
 add
 mov
 add
-add
 bin
 mul
-sub
+mov
 div
-add

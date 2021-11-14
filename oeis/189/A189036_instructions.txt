@@ -3,12 +3,10 @@ add
 add
 seq
 mov
+mul
 gcd
 mul
 pow
 div
-mul
-sub
-div
-add
 mov
+div

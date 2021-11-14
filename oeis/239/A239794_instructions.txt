@@ -1,12 +1,8 @@
-mul
-mov
+add
 mov
 sub
-mul
-mov
+pow
 add
 mul
 add
-div
-sub
-mov
+add

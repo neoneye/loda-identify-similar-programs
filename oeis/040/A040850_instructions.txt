@@ -1,6 +1,2 @@
-seq
-mul
-div
-lpb
 dif
-lpe
+seq

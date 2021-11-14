@@ -1,13 +1,7 @@
-mul
+pow
+div
 mov
-trn
+pow
 add
-mov
-lpb
-sub
-trn
-mul
 add
-mov
-lpe
 mov

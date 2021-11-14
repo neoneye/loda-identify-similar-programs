@@ -1,11 +1,7 @@
 lpb
-sub
 add
-mov
-trn
+sub
 lpe
-add
 sub
-trn
-add
+max
 mov

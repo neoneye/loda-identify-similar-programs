@@ -1,5 +1,8 @@
-seq
 mov
+min
 add
-div
+gcd
 add
+add
+mul
+sub

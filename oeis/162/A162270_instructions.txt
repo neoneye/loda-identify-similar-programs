@@ -12,7 +12,5 @@ add
 mov
 lpe
 mov
+mul
 add
-add
-add
-mov

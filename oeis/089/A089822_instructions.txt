@@ -12,3 +12,4 @@ mul
 sub
 lpe
 div
+mul

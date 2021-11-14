@@ -14,9 +14,8 @@ cmp
 mul
 lpe
 div
-sub
 mul
+mov
 sub
 div
 add
-mov

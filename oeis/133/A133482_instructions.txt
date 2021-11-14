@@ -11,8 +11,10 @@ div
 mod
 cmp
 sub
+sub
 lpe
 add
+mov
 cmp
 cmp
 sub

@@ -1,4 +1,8 @@
-add
-dif
-max
+lpb
+mod
+sub
+lpe
+mov
 seq
+sub
+mov

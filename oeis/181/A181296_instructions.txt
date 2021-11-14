@@ -4,9 +4,7 @@ sub
 seq
 add
 lpe
-mov
-add
-div
+max
 add
 mov
 mul

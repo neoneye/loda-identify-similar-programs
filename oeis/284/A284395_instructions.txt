@@ -1,5 +1,8 @@
+mov
+trn
 seq
-sub
-div
+mul
+add
+mov
 mul
 add

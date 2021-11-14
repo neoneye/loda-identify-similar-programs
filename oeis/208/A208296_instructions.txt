@@ -1,13 +1,3 @@
-add
 seq
-sub
-mul
-add
-lpb
-sub
-dif
-mul
-lpe
-sub
-mul
+seq
 add

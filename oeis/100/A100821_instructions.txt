@@ -1,3 +1,6 @@
 seq
-add
-seq
+div
+mov
+div
+mov
+mod

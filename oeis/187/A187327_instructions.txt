@@ -1,13 +1,9 @@
-mov
-mul
-gcd
-mov
-mov
-mul
 add
 mov
+mov
 add
-mul
+div
 div
 sub
-mov
+add
+sub

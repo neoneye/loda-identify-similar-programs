@@ -1,4 +1,10 @@
 mov
-seq
+add
+add
+mul
+bin
+mul
+pow
 sub
+mov
 add

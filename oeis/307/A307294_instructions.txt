@@ -1,2 +1,14 @@
-seq
-seq
+mov
+div
+mov
+mul
+add
+sub
+div
+sub
+sub
+div
+add
+add
+add
+sub

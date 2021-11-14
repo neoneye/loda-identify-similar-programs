@@ -1,6 +1,5 @@
 seq
-add
+max
 bin
-mov
 mul
 sub

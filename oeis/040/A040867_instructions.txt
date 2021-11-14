@@ -1,11 +1,8 @@
-seq
-lpb
 mov
-div
-sub
-seq
-lpe
-mov
-cmp
+min
 add
-mov
+gcd
+add
+add
+mul
+sub

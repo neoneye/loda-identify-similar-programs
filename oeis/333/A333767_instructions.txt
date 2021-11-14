@@ -1,7 +1,8 @@
 seq
-mov
-cmp
-mov
+seq
 add
 mov
+cmp
+cmp
+sub
 sub

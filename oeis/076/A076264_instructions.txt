@@ -1,2 +1,13 @@
+mov
+lpb
+sub
 add
-seq
+add
+add
+mov
+mov
+add
+mov
+sub
+lpe
+mov

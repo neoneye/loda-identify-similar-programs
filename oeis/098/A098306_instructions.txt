@@ -5,4 +5,3 @@ mov
 add
 div
 sub
-div

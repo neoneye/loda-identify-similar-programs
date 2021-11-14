@@ -1,5 +1,4 @@
 mov
-mov
 lpb
 mov
 add
@@ -13,4 +12,3 @@ div
 lpe
 lpe
 mov
-sub

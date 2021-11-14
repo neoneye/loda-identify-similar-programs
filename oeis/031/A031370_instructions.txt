@@ -1,3 +1,2 @@
 mul
-add
 seq

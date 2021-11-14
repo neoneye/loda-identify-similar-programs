@@ -1,4 +1,2 @@
 seq
-mov
 pow
-mov

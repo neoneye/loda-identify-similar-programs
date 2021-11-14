@@ -1,3 +1,10 @@
+mul
+mov
 add
-seq
+bin
+mul
+mov
+add
+bin
+mul
 div

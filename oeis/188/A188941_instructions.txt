@@ -18,10 +18,7 @@ lpe
 mov
 pow
 div
-mov
-cmp
-cmp
 add
 div
-mod
 mov
+mod

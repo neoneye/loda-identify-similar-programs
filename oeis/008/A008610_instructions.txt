@@ -1,13 +1,4 @@
-add
-mov
-lpb
-add
-trn
-add
-div
-mul
-lpe
-mov
-add
-div
+seq
 sub
+div
+add

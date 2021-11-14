@@ -1,2 +1,10 @@
 add
-seq
+mov
+mov
+add
+mov
+pow
+add
+bin
+mul
+div

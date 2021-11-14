@@ -1,5 +1,8 @@
 add
 lpb
+mov
+cmp
+mul
 add
 add
 trn

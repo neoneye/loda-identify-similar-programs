@@ -6,8 +6,8 @@ add
 trn
 add
 sub
-add
 trn
+add
 add
 gcd
 lpe

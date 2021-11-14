@@ -1,5 +1,5 @@
+mov
 lpb
-add
 mov
 sub
 sub
@@ -7,5 +7,6 @@ add
 mod
 add
 lpe
-mul
+add
 mov
+mul

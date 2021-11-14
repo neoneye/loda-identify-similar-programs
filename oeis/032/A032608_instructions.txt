@@ -1,8 +1,7 @@
 mov
 add
+add
 mov
-add
-add
 lpb
 mul
 div

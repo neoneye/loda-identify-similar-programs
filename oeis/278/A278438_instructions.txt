@@ -1,8 +1,6 @@
 add
 seq
 pow
-add
+sub
 div
-sub
-mul
-sub
+add

@@ -1,7 +1,9 @@
-mov
-seq
+lpb
 add
-seq
 sub
+mov
+sub
+lpe
+add
 pow
 mov

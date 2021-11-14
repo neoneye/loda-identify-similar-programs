@@ -1,6 +1,5 @@
 lpb
 dif
-trn
 lpe
 add
 lpb

@@ -1,10 +1,8 @@
-lpb
-mov
-mul
-mod
+sub
 seq
 add
-lpe
+sub
 mov
+mod
 add
 mod

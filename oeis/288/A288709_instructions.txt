@@ -1,2 +1,8 @@
+mov
+trn
 seq
-max
+mul
+add
+mov
+mul
+add

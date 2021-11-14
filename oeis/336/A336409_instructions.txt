@@ -1,5 +1,4 @@
 add
 seq
-seq
-add
 mul
+add

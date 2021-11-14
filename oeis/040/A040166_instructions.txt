@@ -1,11 +1,10 @@
-dif
-sub
+gcd
+mul
 mod
-mul
-add
-mul
-pow
+mov
+sub
 div
 mul
-div
+trn
+mov
 add

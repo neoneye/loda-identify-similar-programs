@@ -1,13 +1,6 @@
 mov
-mov
-lpb
+pow
 mod
-mov
-lpb
-div
-mul
 add
-sub
-lpe
-lpe
-mov
+mul
+div

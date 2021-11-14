@@ -1,7 +1,6 @@
 seq
-mod
-seq
-mul
+max
+mov
+pow
+mov
 div
-mul
-add

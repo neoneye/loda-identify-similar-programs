@@ -3,6 +3,4 @@ mov
 seq
 mul
 mul
-sub
 div
-add

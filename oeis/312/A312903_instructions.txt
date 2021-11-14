@@ -1,7 +1,4 @@
 mov
-lpb
-sub
-mov
 mov
 lpb
 mov
@@ -28,6 +25,5 @@ add
 lpe
 add
 lpe
-lpe
-add
 mov
+add

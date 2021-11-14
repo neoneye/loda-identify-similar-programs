@@ -1,4 +1,6 @@
-add
 mov
-seq
+pow
+add
 mul
+dif
+add

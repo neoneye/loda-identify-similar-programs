@@ -1,9 +1,11 @@
 mov
+cmp
+mul
 mov
+trn
+min
+mul
 add
+cmp
+mul
 add
-add
-mov
-mov
-mov
-mov

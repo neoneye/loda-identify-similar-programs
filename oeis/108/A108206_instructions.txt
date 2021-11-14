@@ -1,8 +1,7 @@
 mov
 lpb
-sub
-mov
 mul
+sub
 mov
 mov
 mul

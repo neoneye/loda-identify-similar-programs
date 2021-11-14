@@ -1,5 +1,12 @@
 add
-seq
-mul
+mov
+pow
+div
+mov
+pow
+sub
+mov
 add
+mul
+sub
 div

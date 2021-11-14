@@ -1,12 +1,8 @@
-mov
 sub
-mov
 bin
 mov
-sub
-mul
 pow
+bin
 mul
 div
 mul
-mov

@@ -3,16 +3,14 @@ add
 pow
 lpb
 add
-sub
 mov
 seq
+sub
 sub
 mov
 max
 cmp
 mul
 lpe
-div
-mul
 mov
 add

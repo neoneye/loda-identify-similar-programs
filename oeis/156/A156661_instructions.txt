@@ -4,12 +4,10 @@ mov
 pow
 lpb
 lpb
-sub
 dif
+mov
 mul
 lpe
-mul
-sub
 lpe
 mov
 div

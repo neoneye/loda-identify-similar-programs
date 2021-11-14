@@ -1,7 +1,5 @@
 add
 seq
-sub
-bin
-mul
+pow
 mod
 div

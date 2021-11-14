@@ -1,3 +1,10 @@
-mov
-seq
 mul
+mov
+sub
+pow
+mov
+add
+add
+div
+mul
+mov

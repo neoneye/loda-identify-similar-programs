@@ -1,9 +1,10 @@
 mov
+mov
 lpb
 sub
 mov
-mov
 pow
 add
+mov
 lpe
 mov

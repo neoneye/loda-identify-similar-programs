@@ -1,5 +1,4 @@
 mov
-mov
 add
 pow
 lpb
@@ -15,7 +14,6 @@ cmp
 mul
 lpe
 div
-sub
 mul
 mov
-add
+sub

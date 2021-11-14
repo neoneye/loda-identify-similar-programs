@@ -13,4 +13,3 @@ div
 lpe
 lpe
 mov
-sub

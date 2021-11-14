@@ -1,9 +1,8 @@
 lpb
-bin
 mul
+div
+sub
 lpe
 seq
-mov
 max
-mov
 sub

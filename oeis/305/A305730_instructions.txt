@@ -1,4 +1,7 @@
 mov
+add
+bin
 seq
 mul
 div
+mul

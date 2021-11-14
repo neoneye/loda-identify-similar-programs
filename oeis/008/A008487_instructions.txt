@@ -15,5 +15,4 @@ lpe
 add
 trn
 add
-trn
-add
+mov

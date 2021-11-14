@@ -6,7 +6,6 @@ mov
 mul
 add
 add
-add
 lpe
 mov
 add

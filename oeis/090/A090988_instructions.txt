@@ -1,5 +1,8 @@
-seq
-div
+lpb
+add
+sub
+lpe
+sub
 mov
 pow
-mov
+mul

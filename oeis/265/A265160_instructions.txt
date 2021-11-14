@@ -3,4 +3,3 @@ pow
 seq
 add
 add
-mov

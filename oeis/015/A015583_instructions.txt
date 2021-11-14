@@ -1,11 +1,13 @@
 mov
 lpb
 sub
+mov
+mov
+mul
 mul
 add
-mov
+add
 add
 mov
-add
 lpe
 mov

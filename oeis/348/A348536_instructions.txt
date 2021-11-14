@@ -1,0 +1,9 @@
+add
+gcd
+bin
+lpb
+div
+add
+lpe
+div
+mov

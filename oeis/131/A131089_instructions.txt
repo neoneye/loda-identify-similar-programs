@@ -1,6 +1,10 @@
+mov
+mov
 seq
 sub
 mul
-bin
+add
+trn
 sub
+mov
 add

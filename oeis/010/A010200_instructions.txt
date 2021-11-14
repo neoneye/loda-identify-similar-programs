@@ -1,6 +1,10 @@
-seq
-lpb
-pow
+gcd
+mul
 mod
+mov
 add
-lpe
+div
+mul
+div
+mov
+sub

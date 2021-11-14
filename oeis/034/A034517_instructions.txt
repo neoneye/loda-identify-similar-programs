@@ -1,6 +1,8 @@
 mov
-seq
-mov
 pow
 add
+mov
+pow
+mul
 add
+mov

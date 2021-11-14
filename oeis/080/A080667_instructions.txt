@@ -12,7 +12,6 @@ mul
 mul
 div
 div
-add
-mov
 mul
+add
 add

@@ -1,7 +1,6 @@
 seq
 add
 lpb
-div
 sub
+div
 lpe
-mov

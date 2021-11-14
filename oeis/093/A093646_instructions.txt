@@ -1,10 +1,12 @@
-lpb
 mov
-seq
+add
+mul
 add
 mov
-min
+add
+bin
+mul
 sub
-lpe
-add
 mov
+div
+add

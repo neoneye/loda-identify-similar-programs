@@ -1,9 +1,13 @@
 mov
+add
+mov
 mov
 lpb
 sub
-add
-add
+mov
 seq
 sub
+add
 lpe
+add
+sub

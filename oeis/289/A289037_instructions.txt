@@ -1,4 +1,7 @@
+mul
 mov
+div
 seq
+add
 add
 add

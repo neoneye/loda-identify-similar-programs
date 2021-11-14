@@ -9,7 +9,6 @@ trn
 mul
 mov
 lpe
-mov
 trn
+mov
 add
-sub

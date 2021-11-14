@@ -2,13 +2,11 @@ mov
 lpb
 sub
 mov
-trn
+mov
 seq
-div
 add
 mul
 div
-add
 lpe
 mov
 div

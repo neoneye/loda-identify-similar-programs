@@ -1,4 +1,5 @@
 seq
+max
 pow
 bin
 mul

@@ -11,10 +11,8 @@ add
 mov
 max
 cmp
+add
 mul
 lpe
-div
-sub
-mul
-add
 mov
+sub

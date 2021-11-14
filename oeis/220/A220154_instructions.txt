@@ -13,7 +13,6 @@ lpe
 mov
 trn
 add
-sub
-add
 add
 mov
+add

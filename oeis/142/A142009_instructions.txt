@@ -1,5 +1,4 @@
 mov
-mov
 add
 pow
 lpb

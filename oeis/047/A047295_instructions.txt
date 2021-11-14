@@ -1,5 +1,8 @@
 mov
-seq
 add
+add
+mul
 div
-mov
+div
+add
+sub

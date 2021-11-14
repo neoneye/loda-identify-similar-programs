@@ -1,13 +1,10 @@
 mov
 add
 pow
-mov
-add
 lpb
+add
 sub
 mov
-sub
-sub
 seq
 sub
 add
@@ -17,7 +14,6 @@ cmp
 mul
 lpe
 div
-sub
 mul
-add
 mov
+sub

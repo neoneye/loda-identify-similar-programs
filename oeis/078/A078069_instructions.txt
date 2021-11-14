@@ -8,9 +8,4 @@ add
 mul
 sub
 lpe
-add
-mov
-sub
-add
-sub
 mov

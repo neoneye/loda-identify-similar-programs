@@ -1,3 +1,11 @@
-trn
-seq
-div
+sub
+mov
+mov
+lpb
+sub
+mul
+add
+mul
+sub
+lpe
+mov

@@ -1,0 +1,10 @@
+lpb
+add
+sub
+lpe
+bin
+mod
+add
+bin
+mul
+mov

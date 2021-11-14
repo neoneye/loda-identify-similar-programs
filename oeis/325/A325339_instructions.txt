@@ -15,8 +15,7 @@ lpe
 lpb
 bin
 mul
-add
 lpe
+mov
 div
 add
-mov

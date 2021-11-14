@@ -3,4 +3,4 @@ seq
 mov
 sub
 mov
-sub
+add

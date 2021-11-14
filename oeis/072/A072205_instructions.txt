@@ -1,5 +1,4 @@
 seq
-add
+max
 bin
-mov
 add

@@ -2,15 +2,11 @@ mov
 mov
 lpb
 mov
-sub
-add
 trn
 seq
-mov
-mul
-add
+sub
 lpe
 min
 mul
 mov
-sub
+add

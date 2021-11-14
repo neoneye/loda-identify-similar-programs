@@ -1,11 +1,10 @@
 mov
 lpb
 sub
-add
-add
 mul
 add
 add
+mov
+mul
 lpe
 mov
-div

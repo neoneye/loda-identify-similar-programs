@@ -1,6 +1,8 @@
-seq
-dif
+gcd
+mul
+mod
 mov
+add
 add
 div
 mul

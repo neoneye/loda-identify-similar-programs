@@ -1,4 +1,8 @@
 mov
-trn
+mov
 seq
+sub
+trn
+add
+mov
 add

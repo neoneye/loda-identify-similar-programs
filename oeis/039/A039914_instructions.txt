@@ -1,8 +1,5 @@
-trn
+max
 seq
-add
-mul
-add
-add
+bin
 mul
 sub

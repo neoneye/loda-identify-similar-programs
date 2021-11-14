@@ -4,7 +4,7 @@ lpe
 mov
 sub
 lpb
-div
+mov
 sub
 mod
 pow

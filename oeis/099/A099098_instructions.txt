@@ -1,3 +1,6 @@
 mul
 trn
 seq
+sub
+div
+add

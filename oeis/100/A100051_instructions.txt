@@ -1,5 +1,9 @@
-pow
 mov
-cmp
+mov
+lpb
+max
+gcd
 add
-seq
+sub
+lpe
+mov

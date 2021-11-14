@@ -1,15 +1,6 @@
 add
 mov
-lpb
-sub
-div
-mul
-add
-add
-mov
-mov
-mul
-lpe
+seq
 mov
 div
 mul

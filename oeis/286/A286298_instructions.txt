@@ -1,9 +1,11 @@
 lpb
-mov
-seq
 add
 mov
 div
+add
+mod
+add
+add
 lpe
-sub
+div
 mov

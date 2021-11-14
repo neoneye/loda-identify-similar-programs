@@ -1,9 +1,5 @@
 mul
-div
 add
+div
 mul
 dif
-div
-mul
-div
-add

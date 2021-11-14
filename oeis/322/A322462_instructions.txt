@@ -12,5 +12,3 @@ mov
 add
 lpe
 sub
-add
-sub

@@ -1,11 +1,10 @@
+mov
+mov
 add
-mov
 pow
-sub
-mul
-sub
 mul
 mul
-div
+mul
+add
+mul
 mov
-mul

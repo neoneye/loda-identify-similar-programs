@@ -1,4 +1,7 @@
-seq
-seq
+mov
+add
 div
+mul
+div
+add
 add

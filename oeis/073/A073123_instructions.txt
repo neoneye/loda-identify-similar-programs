@@ -1,5 +1,3 @@
 seq
 seq
-mov
 sub
-mov

@@ -1,3 +1,4 @@
 seq
+max
 mul
 mod

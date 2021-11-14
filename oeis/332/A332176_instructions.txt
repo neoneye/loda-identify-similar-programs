@@ -4,7 +4,6 @@ pow
 mul
 sub
 bin
-div
 mov
 sub
 div

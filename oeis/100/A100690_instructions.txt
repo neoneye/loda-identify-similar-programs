@@ -1,7 +1,8 @@
 seq
+max
 mov
-lpb
+mov
+pow
 mul
-sub
-lpe
+mov
 sub

@@ -4,4 +4,3 @@ add
 seq
 mul
 mov
-div

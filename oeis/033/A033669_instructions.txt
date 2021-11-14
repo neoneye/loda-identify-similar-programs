@@ -1,7 +1,7 @@
-lpb
-mov
 mov
 pow
-seq
-lpe
 mov
+pow
+sub
+mul
+add

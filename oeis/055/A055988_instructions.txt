@@ -1,7 +1,4 @@
 mul
-sub
-mul
-add
-max
+trn
 seq
 add

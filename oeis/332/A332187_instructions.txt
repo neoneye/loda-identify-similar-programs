@@ -4,8 +4,6 @@ pow
 mul
 sub
 bin
-div
 mov
-sub
+mul
 div
-add

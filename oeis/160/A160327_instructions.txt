@@ -5,14 +5,9 @@ mul
 lpb
 mul
 add
-cmp
-mov
-div
-add
 div
 div
 sub
-cmp
 lpe
 add
 mul

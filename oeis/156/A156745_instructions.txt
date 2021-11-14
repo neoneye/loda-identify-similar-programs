@@ -1,6 +1,4 @@
-mov
 add
+mov
 seq
-add
-mov
 add

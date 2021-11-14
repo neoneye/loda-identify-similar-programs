@@ -2,14 +2,11 @@ mov
 mov
 add
 pow
-mov
 lpb
 add
 mov
 seq
 sub
-add
-add
 add
 sub
 mov

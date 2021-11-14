@@ -1,11 +1,9 @@
 mul
 pow
-mov
 lpb
 mov
 div
 mod
 add
 lpe
-sub
 mov

@@ -3,7 +3,7 @@ mov
 lpb
 sub
 mov
-mov
 mul
+mov
 lpe
 mov

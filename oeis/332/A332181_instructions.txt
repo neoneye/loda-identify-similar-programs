@@ -5,8 +5,7 @@ sub
 mul
 add
 bin
-mul
 mov
-sub
+mul
 div
-add
+sub

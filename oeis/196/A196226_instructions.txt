@@ -1,5 +1,4 @@
-seq
-mul
-trn
-mul
 add
+seq
+max
+mul

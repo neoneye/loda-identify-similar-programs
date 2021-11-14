@@ -1,12 +1,9 @@
 pow
+mov
 mul
-lpb
-add
-lpb
-mov
+trn
+mul
+sub
 dif
-lpe
-lpe
-div
-add
 mov
+add

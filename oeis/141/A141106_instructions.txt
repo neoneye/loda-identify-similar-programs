@@ -1,6 +1,5 @@
-add
-seq
-sub
-div
 mul
 add
+div
+mul
+sub

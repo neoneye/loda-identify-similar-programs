@@ -3,5 +3,3 @@ seq
 mul
 mul
 add
-add
-sub

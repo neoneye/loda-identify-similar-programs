@@ -1,9 +1,8 @@
 mov
-lpb
-mov
-mov
-trn
-seq
-lpe
+add
+mul
+bin
+sub
+sub
+mul
 div
-mov

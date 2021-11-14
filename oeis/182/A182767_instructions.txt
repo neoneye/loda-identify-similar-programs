@@ -1,13 +1,5 @@
 mov
 add
-mov
 mul
-add
-mov
-add
 div
-add
-add
 mov
-mul
-add

@@ -1,3 +1,5 @@
 seq
 pow
+sub
 mul
+add

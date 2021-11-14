@@ -1,3 +1,4 @@
 seq
+max
 add
 bin

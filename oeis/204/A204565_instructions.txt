@@ -10,6 +10,5 @@ mov
 sub
 sub
 mov
-sub
 div
 add

@@ -1,12 +1,4 @@
-lpb
-mov
 mov
 seq
 mov
-lpe
-lpb
-mov
-lpe
-mod
 add
-mov

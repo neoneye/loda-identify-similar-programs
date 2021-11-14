@@ -1,5 +1,4 @@
-mov
 add
-mul
+mov
 seq
 add

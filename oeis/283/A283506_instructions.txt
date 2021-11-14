@@ -1,8 +1,9 @@
-seq
 mov
 mov
-cmp
 add
-div
+pow
+trn
+add
+mod
+add
 sub
-mov

@@ -1,11 +1,7 @@
 add
 seq
-mov
 sub
-add
+bin
 sub
-mov
-add
 mul
 add
-mov

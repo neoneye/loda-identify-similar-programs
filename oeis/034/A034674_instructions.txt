@@ -2,6 +2,7 @@ mov
 pow
 mov
 mov
+mov
 lpb
 add
 mul

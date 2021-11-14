@@ -1,6 +1,8 @@
 mov
-seq
+mov
 lpb
+mov
 add
-trn
+seq
 lpe
+mov

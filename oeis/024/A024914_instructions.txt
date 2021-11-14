@@ -7,12 +7,13 @@ sub
 mov
 seq
 sub
-sub
+add
 mov
 max
 cmp
 mul
 lpe
 mov
+sub
 div
 add

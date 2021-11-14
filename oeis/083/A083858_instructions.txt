@@ -1,11 +1,9 @@
 lpb
 sub
-mul
-mov
 add
 mov
-mov
-trn
+mul
+add
 add
 add
 lpe

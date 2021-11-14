@@ -1,4 +1,7 @@
 mov
-add
+trn
 seq
+mul
+add
+mov
 add

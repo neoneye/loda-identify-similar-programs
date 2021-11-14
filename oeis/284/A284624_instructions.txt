@@ -1,3 +1,7 @@
 mov
+trn
 seq
+mul
+add
+mov
 add

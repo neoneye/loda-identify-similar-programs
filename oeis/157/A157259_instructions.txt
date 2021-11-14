@@ -1,7 +1,6 @@
 seq
-sub
-add
-div
-add
+mov
+mul
 mov
 add
+mod

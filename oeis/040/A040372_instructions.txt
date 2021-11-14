@@ -1,3 +1,10 @@
-seq
+gcd
 mul
+mod
+mov
 div
+add
+div
+mul
+add
+sub

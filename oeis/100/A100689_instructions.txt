@@ -1,9 +1,8 @@
 seq
+max
+mov
 mov
 pow
 mul
-div
-sub
-mul
-add
 mov
+sub

@@ -1,2 +1,10 @@
-seq
+mov
+pow
+mov
+sub
+bin
+mul
+mov
+mod
+add
 mod

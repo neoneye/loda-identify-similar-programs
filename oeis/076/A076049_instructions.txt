@@ -1,9 +1,4 @@
 add
-lpb
-mov
-sub
 seq
-add
-lpe
 sub
-mov
+div

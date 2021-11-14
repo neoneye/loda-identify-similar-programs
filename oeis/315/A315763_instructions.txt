@@ -12,9 +12,7 @@ trn
 mov
 mov
 lpe
-sub
 lpb
 add
 sub
 lpe
-add

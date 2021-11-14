@@ -4,8 +4,8 @@ sub
 add
 add
 add
-mov
-mul
 lpe
-add
 mov
+trn
+mov
+add

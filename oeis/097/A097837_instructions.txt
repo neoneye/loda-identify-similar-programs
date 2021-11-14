@@ -1,8 +1,13 @@
 lpb
-mov
 sub
-seq
+add
+mov
+mul
+add
+add
+sub
+add
 add
 lpe
-add
 mov
+add

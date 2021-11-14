@@ -1,3 +1,10 @@
+sub
+add
 seq
+mov
+mul
+add
+mov
+sub
 mul
 add

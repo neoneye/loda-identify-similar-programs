@@ -1,9 +1,6 @@
-lpb
+mov
+trn
 sub
-mov
-max
 seq
-add
-lpe
-mov
+mul
 add

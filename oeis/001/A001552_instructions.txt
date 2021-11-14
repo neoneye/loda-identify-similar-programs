@@ -11,11 +11,7 @@ lpe
 gcd
 mul
 add
-mul
-add
-add
+mov
 sub
 div
-mul
 add
-mov

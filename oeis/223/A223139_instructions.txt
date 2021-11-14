@@ -3,13 +3,11 @@ mov
 mov
 mul
 lpb
-mul
-lpb
 add
 add
 mul
+add
 sub
-lpe
 lpe
 mov
 pow

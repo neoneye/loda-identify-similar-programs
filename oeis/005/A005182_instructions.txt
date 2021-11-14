@@ -8,7 +8,6 @@ mul
 mul
 add
 mul
-cmp
 add
 div
 div

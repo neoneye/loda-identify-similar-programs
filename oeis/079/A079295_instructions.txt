@@ -1,7 +1,9 @@
+seq
+mul
+seq
 mov
-seq
-seq
+mov
 sub
-mov
 max
-cmp
+add
+mod

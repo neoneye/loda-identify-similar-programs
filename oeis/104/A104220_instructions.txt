@@ -1,4 +1,6 @@
+trn
 seq
+add
 div
 mul
-add
+sub

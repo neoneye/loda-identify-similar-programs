@@ -20,4 +20,3 @@ mov
 mod
 add
 mod
-add

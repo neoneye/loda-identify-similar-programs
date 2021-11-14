@@ -2,11 +2,10 @@ lpb
 add
 sub
 lpe
+add
 lpb
-add
-trn
 mul
-mul
+gcd
 lpe
-add
 mov
+add

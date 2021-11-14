@@ -1,5 +1,12 @@
 mov
-seq
+lpb
+mov
+trn
+sub
+add
+mul
+add
+lpe
 mov
 sub
 mul

@@ -1,5 +1,4 @@
 mov
-mov
 lpb
 sub
 mov

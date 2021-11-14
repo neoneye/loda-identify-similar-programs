@@ -2,7 +2,6 @@ mov
 mov
 lpb
 sub
-mod
 add
 add
 mul

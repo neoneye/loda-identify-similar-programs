@@ -1,6 +1,5 @@
 mul
 mov
-add
 gcd
 lpb
 add

@@ -9,4 +9,3 @@ mul
 mov
 sub
 div
-add

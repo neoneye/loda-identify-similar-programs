@@ -11,7 +11,5 @@ sub
 mul
 add
 lpe
-sub
 div
-add
 mov

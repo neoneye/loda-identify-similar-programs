@@ -7,5 +7,4 @@ pow
 mul
 add
 mov
-mul
 div

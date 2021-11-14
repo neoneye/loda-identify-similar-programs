@@ -5,8 +5,7 @@ sub
 mov
 max
 seq
-sub
-add
+bin
 lpe
 mul
 add

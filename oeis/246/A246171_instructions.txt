@@ -7,14 +7,12 @@ mov
 mul
 lpb
 lpb
-add
 trn
 add
 lpe
-sub
 mov
 lpe
-mov
-sub
-div
 add
+mov
+div
+sub

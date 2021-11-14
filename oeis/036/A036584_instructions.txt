@@ -1,5 +1,4 @@
 seq
+dif
 add
-mul
-mod
-add
+div

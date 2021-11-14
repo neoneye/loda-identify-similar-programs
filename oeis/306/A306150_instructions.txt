@@ -1,14 +1,10 @@
 lpb
+sub
 add
-add
-cmp
+mov
+mod
 mul
 add
-add
-add
-sub
-sub
-sub
 lpe
 mov
 mul

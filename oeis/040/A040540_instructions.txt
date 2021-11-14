@@ -1,7 +1,11 @@
-seq
-seq
-mov
+gcd
 mul
+mod
 mov
+add
+add
+div
+mul
+add
 div
 sub

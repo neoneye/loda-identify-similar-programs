@@ -1,6 +1,4 @@
 add
 seq
-max
 pow
-mov
 mul

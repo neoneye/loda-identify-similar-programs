@@ -8,7 +8,5 @@ add
 seq
 add
 lpe
-div
-mul
-add
 mov
+add

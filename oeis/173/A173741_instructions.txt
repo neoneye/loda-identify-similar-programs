@@ -2,9 +2,7 @@ seq
 lpb
 mov
 mov
-mod
-sub
 add
 lpe
-add
 mov
+add

@@ -1,7 +1,4 @@
 mul
 seq
-mov
-mov
-cmp
+trn
 add
-mov

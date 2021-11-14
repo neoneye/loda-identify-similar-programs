@@ -4,8 +4,7 @@ lpb
 sub
 mov
 mov
+add
 mul
-add
-add
 lpe
 mov

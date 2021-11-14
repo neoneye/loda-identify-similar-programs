@@ -1,12 +1,8 @@
 mov
-lpb
-mov
-mov
+pow
 div
-seq
+mov
+pow
 add
 mov
-lpe
 div
-add
-mov

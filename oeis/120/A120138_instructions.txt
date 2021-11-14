@@ -7,9 +7,4 @@ div
 lpe
 add
 div
-add
-mul
-sub
-div
-add
 mov

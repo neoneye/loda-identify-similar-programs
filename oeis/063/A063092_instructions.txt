@@ -1,13 +1,10 @@
 mov
-mov
-mov
-sub
-mov
 lpb
-gcd
-add
-sub
 sub
 mul
+mov
+add
+mov
 lpe
+add
 mov

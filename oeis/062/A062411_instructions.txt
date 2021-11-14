@@ -4,7 +4,5 @@ seq
 cmp
 add
 mod
-mul
 lpe
 mov
-div

@@ -1,5 +1,4 @@
 mov
-add
 mov
 lpb
 mov
@@ -11,3 +10,4 @@ cmp
 add
 lpe
 mov
+add

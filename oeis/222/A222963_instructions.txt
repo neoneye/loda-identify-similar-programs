@@ -1,5 +1,5 @@
+add
 seq
-add
-mul
-add
+pow
 sub
+div

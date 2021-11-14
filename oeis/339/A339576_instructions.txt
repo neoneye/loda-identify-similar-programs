@@ -1,14 +1,9 @@
 add
 mov
 lpb
-add
-pow
 mov
-mov
-div
 add
 sub
-dif
 mov
 div
 pow

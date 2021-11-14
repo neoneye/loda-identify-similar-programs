@@ -1,7 +1,4 @@
 lpb
-add
-add
-sub
 div
 gcd
 lpe

@@ -12,9 +12,7 @@ pow
 mov
 mov
 mul
-mov
 lpe
-add
+mov
 div
 add
-mov

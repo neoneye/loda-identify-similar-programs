@@ -1,5 +1,9 @@
 mov
-trn
-add
-add
+mov
 seq
+sub
+div
+cmp
+add
+mov
+add

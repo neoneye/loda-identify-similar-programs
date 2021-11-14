@@ -1,10 +1,9 @@
 mov
 seq
-mov
 sub
 lpb
-trn
 mul
+trn
 add
 lpe
 sub

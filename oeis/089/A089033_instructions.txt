@@ -1,8 +1,8 @@
 mov
+mov
 add
 pow
 lpb
-add
 sub
 mov
 seq

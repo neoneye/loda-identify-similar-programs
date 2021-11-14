@@ -1,5 +1,4 @@
 seq
-mov
+mul
 div
-add
 add

@@ -11,3 +11,4 @@ cmp
 add
 lpe
 mov
+add

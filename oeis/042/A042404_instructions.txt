@@ -6,11 +6,9 @@ mul
 add
 mov
 mul
-sub
-mul
 add
 add
 lpe
 mov
-div
 add
+div

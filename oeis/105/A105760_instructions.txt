@@ -2,4 +2,3 @@ add
 seq
 sub
 div
-sub

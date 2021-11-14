@@ -1,8 +1,9 @@
 mov
-add
+mov
+cmp
+mul
+cmp
 mul
 add
-mov
-mov
-trn
-mov
+cmp
+add

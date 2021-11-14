@@ -1,14 +1,4 @@
-mov
-lpb
-sub
-add
-add
-lpe
-lpb
-sub
-add
-lpe
-mov
-sub
+mod
+seq
 mul
 add

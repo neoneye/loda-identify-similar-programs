@@ -1,13 +1,7 @@
 add
 bin
 mov
-mov
-lpb
+pow
 mul
-lpb
-sub
-mul
-lpe
-lpe
-div
+max
 mov

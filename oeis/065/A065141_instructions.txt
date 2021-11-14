@@ -2,12 +2,9 @@ add
 mov
 lpb
 sub
-mul
-add
-mul
 mov
-cmp
 add
+mul
 mul
 lpe
 mov

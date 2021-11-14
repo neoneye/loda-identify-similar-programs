@@ -1,8 +1,2 @@
 mul
 seq
-add
-mul
-mov
-sub
-div
-add

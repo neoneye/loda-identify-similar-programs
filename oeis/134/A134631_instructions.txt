@@ -1,0 +1,15 @@
+mov
+pow
+mov
+pow
+add
+add
+mul
+mov
+mul
+add
+bin
+mul
+mov
+mul
+add

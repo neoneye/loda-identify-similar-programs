@@ -1,12 +1,10 @@
 add
 pow
+mov
 lpb
 sub
-trn
-add
 add
 lpe
-sub
-div
-add
+pow
 mov
+div

@@ -1,4 +1,5 @@
 seq
+max
 add
 bin
 mul

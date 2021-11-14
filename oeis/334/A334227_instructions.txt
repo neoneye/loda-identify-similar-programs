@@ -2,8 +2,8 @@ mov
 mul
 mov
 mov
-mov
 lpb
+mov
 mov
 div
 lpb

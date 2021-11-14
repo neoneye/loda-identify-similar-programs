@@ -1,12 +1,7 @@
-mov
-sub
 lpb
+sub
 mov
 mov
-mov
-cmp
-add
-div
 max
 seq
 lpe

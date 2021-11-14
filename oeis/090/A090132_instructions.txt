@@ -7,5 +7,4 @@ add
 mul
 sub
 lpe
-add
 mov

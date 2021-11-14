@@ -1,14 +1,8 @@
 mov
 pow
-lpb
-sub
-mov
-lpe
-mov
-pow
 div
+mov
 pow
-gcd
 sub
 mov
 mul

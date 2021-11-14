@@ -1,4 +1,10 @@
-seq
-dif
+gcd
 mul
+mod
+mov
+add
 div
+sub
+mul
+add
+sub

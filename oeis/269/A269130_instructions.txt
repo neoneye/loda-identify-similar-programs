@@ -1,4 +1,3 @@
 mov
 seq
-seq
 add

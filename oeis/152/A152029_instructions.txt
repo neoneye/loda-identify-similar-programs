@@ -1,6 +1,7 @@
 mov
-mov
-pow
 seq
+lpb
 mul
-mov
+mul
+sub
+lpe

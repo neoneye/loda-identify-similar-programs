@@ -1,5 +1,6 @@
 mov
+mul
 seq
-lpb
-mov
-lpe
+cmp
+trn
+mod

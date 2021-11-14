@@ -1,4 +1,13 @@
-mul
-trn
-seq
+mov
+lpb
+sub
 add
+mov
+mov
+mul
+sub
+lpe
+add
+mov
+mul
+sub

@@ -1,4 +1,12 @@
+mov
+mov
+pow
+sub
+gcd
 mul
-trn
-seq
+add
+mov
+sub
+div
 mul
+add

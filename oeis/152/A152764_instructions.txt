@@ -1,3 +1,11 @@
 mul
-seq
-seq
+lpb
+trn
+add
+trn
+pow
+add
+lpe
+mov
+mul
+add

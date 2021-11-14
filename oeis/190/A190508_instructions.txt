@@ -1,2 +1,14 @@
+mov
+mul
+mov
+add
 seq
-seq
+mov
+add
+add
+div
+add
+mod
+add
+add
+sub

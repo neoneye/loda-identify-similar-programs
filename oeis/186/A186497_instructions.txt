@@ -1,5 +1,9 @@
 mov
+mov
 mul
-seq
+lpb
+add
+trn
+lpe
 add
 mov

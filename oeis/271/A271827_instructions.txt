@@ -1,5 +1,6 @@
 mov
+max
 seq
+cmp
 add
-mov
 sub

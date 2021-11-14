@@ -1,4 +1,8 @@
 seq
-pow
 mov
 mov
+mov
+cmp
+add
+cmp
+sub

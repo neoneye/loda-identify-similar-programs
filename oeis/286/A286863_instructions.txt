@@ -8,6 +8,4 @@ div
 pow
 lpe
 mov
-sub
 div
-add

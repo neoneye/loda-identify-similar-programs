@@ -1,2 +1,14 @@
 mul
-seq
+add
+mov
+lpb
+mov
+dif
+cmp
+cmp
+mul
+sub
+add
+lpe
+mov
+add

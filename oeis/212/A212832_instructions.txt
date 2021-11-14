@@ -1,8 +1,6 @@
+mul
+div
+mul
+min
 add
-mov
-add
-mov
-add
-mov
-mov
-mov
+mod

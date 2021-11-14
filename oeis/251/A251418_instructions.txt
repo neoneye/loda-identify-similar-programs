@@ -1,10 +1,5 @@
-mov
-mul
-div
+add
+bin
 add
 div
-mov
-mov
-seq
 sub
-mov

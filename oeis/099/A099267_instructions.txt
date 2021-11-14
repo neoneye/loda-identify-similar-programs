@@ -1,5 +1,7 @@
 mov
+trn
 seq
+mov
 add
-div
 add
+mov

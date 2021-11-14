@@ -1,9 +1,8 @@
-seq
 mov
+min
 add
-lpb
-mov
-seq
-mov
-lpe
-mov
+gcd
+add
+add
+mul
+sub

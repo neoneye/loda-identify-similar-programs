@@ -1,13 +1,10 @@
+mul
 mov
 lpb
-mov
-add
-add
 sub
 add
-max
-sub
 mul
+sub
 lpe
 mov
 add

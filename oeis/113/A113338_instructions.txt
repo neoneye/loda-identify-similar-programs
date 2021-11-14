@@ -5,7 +5,6 @@ add
 add
 pow
 mul
-sub
 div
 mul
 add

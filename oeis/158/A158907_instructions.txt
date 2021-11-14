@@ -1,3 +1,9 @@
+lpb
+mov
+bin
+mov
+lpe
 mov
 seq
 add
+mov

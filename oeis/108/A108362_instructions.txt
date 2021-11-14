@@ -6,7 +6,6 @@ add
 lpe
 lpb
 sub
-mov
-add
+min
 lpe
 mov

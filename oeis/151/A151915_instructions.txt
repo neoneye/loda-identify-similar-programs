@@ -1,7 +1,7 @@
 add
 mov
-seq
-add
 mul
-div
+seq
+mul
+add
 sub

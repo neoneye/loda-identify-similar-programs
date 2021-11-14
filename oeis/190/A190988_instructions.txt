@@ -4,8 +4,7 @@ sub
 mul
 add
 add
-add
+mov
 mul
 lpe
-div
 mov

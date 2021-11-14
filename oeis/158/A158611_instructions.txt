@@ -1,7 +1,7 @@
-sub
 mov
 trn
 seq
 lpb
-bin
+pow
+mov
 lpe

@@ -2,8 +2,7 @@ gcd
 mul
 mod
 mov
-add
-add
+sub
 div
 mul
 add

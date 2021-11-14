@@ -1,11 +1,7 @@
 mov
 mul
 bin
-mov
-gcd
 mul
-mul
-sub
-mov
-div
 add
+dif
+sub

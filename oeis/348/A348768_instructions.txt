@@ -1,14 +1,9 @@
 sub
+pow
 sub
-mov
-cmp
-add
-add
+bin
 mov
 div
 mov
-cmp
 add
-div
-mov
-add
+mod

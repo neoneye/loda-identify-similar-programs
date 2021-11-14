@@ -4,6 +4,4 @@ seq
 add
 add
 mov
-sub
 div
-add

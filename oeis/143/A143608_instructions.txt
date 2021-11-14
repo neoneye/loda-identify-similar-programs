@@ -18,7 +18,6 @@ mov
 sub
 add
 sub
-mov
 lpb
 div
 mov
@@ -32,14 +31,9 @@ sub
 mov
 lpe
 lpe
-lpb
-sub
-mov
-lpe
 mov
 div
 add
 lpe
-add
 lpe
 mov

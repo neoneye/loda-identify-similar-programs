@@ -10,6 +10,7 @@ lpe
 lpb
 mov
 sub
+min
 lpe
 sub
 mov

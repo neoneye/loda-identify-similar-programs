@@ -1,5 +1,10 @@
+add
 mov
+pow
+mov
+pow
+sub
+sub
 add
-seq
-add
+mov
 add
