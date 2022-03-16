@@ -1,3 +1,0 @@
-mod
-min
-add

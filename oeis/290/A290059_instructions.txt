@@ -1,7 +1,0 @@
-seq
-max
-mov
-mul
-bin
-mov
-div

@@ -1,7 +1,0 @@
-mov
-pow
-trn
-div
-mul
-add
-mov

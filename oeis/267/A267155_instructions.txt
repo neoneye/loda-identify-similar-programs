@@ -1,6 +1,0 @@
-sub
-lpb
-trn
-gcd
-lpe
-bin

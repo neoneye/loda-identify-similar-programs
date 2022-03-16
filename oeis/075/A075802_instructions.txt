@@ -1,8 +1,0 @@
-mov
-max
-seq
-sub
-sub
-bin
-add
-mod

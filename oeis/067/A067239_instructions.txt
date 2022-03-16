@@ -1,5 +1,0 @@
-mul
-bin
-mul
-trn
-add

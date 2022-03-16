@@ -1,7 +1,0 @@
-mov
-min
-add
-gcd
-add
-mul
-sub

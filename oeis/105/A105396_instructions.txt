@@ -1,4 +1,0 @@
-gcd
-add
-mod
-add

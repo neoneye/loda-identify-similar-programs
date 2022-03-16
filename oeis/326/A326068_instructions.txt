@@ -1,8 +1,0 @@
-mov
-seq
-sub
-seq
-sub
-sub
-sub
-mov

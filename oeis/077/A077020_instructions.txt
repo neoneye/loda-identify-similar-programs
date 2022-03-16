@@ -1,4 +1,0 @@
-add
-seq
-gcd
-div

@@ -1,4 +1,0 @@
-dif
-max
-seq
-div

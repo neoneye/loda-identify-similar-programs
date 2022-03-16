@@ -1,4 +1,0 @@
-add
-div
-pow
-div

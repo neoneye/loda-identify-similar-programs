@@ -1,8 +1,0 @@
-seq
-seq
-mov
-mov
-pow
-clr
-mov
-mov

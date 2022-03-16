@@ -1,6 +1,0 @@
-min
-mov
-bin
-bin
-mov
-mod

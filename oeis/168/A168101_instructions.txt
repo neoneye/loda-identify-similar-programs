@@ -1,6 +1,0 @@
-mov
-mul
-add
-trn
-add
-add

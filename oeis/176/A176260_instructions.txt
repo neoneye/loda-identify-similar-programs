@@ -1,3 +1,0 @@
-gcd
-mul
-sub

@@ -1,4 +1,0 @@
-lpb
-mul
-mod
-lpe

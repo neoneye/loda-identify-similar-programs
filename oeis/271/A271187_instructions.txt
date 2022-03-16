@@ -1,7 +1,0 @@
-seq
-lpb
-lpb
-dif
-lpe
-dif
-lpe

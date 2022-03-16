@@ -1,7 +1,0 @@
-trn
-add
-seq
-add
-add
-add
-mod

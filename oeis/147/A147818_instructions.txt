@@ -1,5 +1,0 @@
-add
-bin
-mod
-mul
-add

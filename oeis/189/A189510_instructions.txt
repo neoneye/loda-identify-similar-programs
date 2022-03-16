@@ -1,6 +1,0 @@
-pow
-lpb
-sub
-mod
-add
-lpe

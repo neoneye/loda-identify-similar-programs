@@ -1,9 +1,0 @@
-seq
-sub
-mov
-lpb
-sub
-add
-lpe
-mov
-sub

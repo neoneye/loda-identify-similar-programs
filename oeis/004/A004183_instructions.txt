@@ -1,5 +1,0 @@
-lpb
-add
-dif
-sub
-lpe

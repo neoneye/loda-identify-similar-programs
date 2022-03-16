@@ -1,5 +1,0 @@
-add
-sub
-bin
-gcd
-mul

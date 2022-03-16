@@ -1,6 +1,0 @@
-pow
-mul
-sub
-mov
-bin
-gcd

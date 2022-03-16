@@ -1,4 +1,0 @@
-mul
-seq
-sub
-mod

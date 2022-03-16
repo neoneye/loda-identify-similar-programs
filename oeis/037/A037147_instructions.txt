@@ -1,5 +1,0 @@
-mul
-min
-mod
-mul
-add

@@ -1,7 +1,0 @@
-mov
-gcd
-mov
-add
-add
-div
-mov

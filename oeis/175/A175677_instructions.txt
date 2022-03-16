@@ -1,5 +1,0 @@
-add
-gcd
-bin
-mod
-mov

@@ -1,6 +1,0 @@
-trn
-mod
-add
-mul
-sub
-mod

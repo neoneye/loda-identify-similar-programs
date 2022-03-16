@@ -1,7 +1,0 @@
-add
-bin
-add
-bin
-div
-mul
-sub

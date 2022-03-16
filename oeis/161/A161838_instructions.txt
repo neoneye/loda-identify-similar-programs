@@ -1,6 +1,0 @@
-mov
-sub
-bin
-dif
-mod
-mov

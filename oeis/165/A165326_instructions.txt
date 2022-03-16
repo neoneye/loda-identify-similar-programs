@@ -1,4 +1,0 @@
-trn
-mov
-pow
-mov

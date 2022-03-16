@@ -1,6 +1,0 @@
-sub
-add
-sub
-mul
-gcd
-sub

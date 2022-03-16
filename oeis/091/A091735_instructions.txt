@@ -1,6 +1,0 @@
-mov
-mul
-mod
-add
-seq
-max

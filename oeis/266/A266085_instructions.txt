@@ -1,8 +1,0 @@
-mov
-bin
-mul
-div
-sub
-mul
-sub
-div

@@ -1,4 +1,0 @@
-cmp
-gcd
-sub
-div

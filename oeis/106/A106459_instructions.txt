@@ -1,7 +1,0 @@
-mov
-lpb
-mov
-seq
-lpe
-sub
-bin

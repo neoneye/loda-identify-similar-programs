@@ -1,4 +1,0 @@
-div
-add
-bin
-mod

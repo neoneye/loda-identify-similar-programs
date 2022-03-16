@@ -1,7 +1,0 @@
-mov
-gcd
-lpb
-mul
-sub
-trn
-lpe

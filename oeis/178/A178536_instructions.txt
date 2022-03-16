@@ -1,4 +1,0 @@
-mov
-cmp
-seq
-sub

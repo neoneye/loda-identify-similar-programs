@@ -1,4 +1,0 @@
-mod
-pow
-mod
-mul

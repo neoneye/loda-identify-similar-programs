@@ -1,4 +1,0 @@
-add
-bin
-mul
-add

@@ -1,4 +1,0 @@
-add
-max
-seq
-cmp

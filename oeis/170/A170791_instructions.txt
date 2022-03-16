@@ -1,4 +1,0 @@
-sub
-pow
-bin
-mov

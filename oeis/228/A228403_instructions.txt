@@ -1,5 +1,0 @@
-seq
-add
-min
-add
-add

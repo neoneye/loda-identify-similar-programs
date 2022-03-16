@@ -1,4 +1,0 @@
-div
-mov
-mul
-bin

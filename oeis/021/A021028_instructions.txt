@@ -1,4 +1,0 @@
-min
-add
-dif
-sub

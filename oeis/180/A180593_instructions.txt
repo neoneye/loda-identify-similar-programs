@@ -1,4 +1,0 @@
-sub
-mod
-add
-mul

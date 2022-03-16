@@ -1,5 +1,0 @@
-add
-mod
-mul
-div
-add

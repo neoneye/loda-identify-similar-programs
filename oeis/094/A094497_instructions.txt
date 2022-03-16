@@ -1,4 +1,0 @@
-mov
-max
-add
-mov

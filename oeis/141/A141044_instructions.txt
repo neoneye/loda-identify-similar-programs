@@ -1,3 +1,0 @@
-div
-cmp
-add

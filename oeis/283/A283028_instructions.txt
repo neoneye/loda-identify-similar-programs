@@ -1,4 +1,0 @@
-pow
-add
-bin
-div

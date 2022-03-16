@@ -1,7 +1,0 @@
-trn
-add
-add
-add
-trn
-add
-mov

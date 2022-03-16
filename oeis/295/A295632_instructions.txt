@@ -1,7 +1,0 @@
-add
-seq
-seq
-pow
-mod
-sub
-mod

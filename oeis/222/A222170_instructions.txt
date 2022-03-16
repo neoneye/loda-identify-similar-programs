@@ -1,4 +1,0 @@
-mov
-mul
-mul
-div

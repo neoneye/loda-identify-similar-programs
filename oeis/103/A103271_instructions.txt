@@ -1,9 +1,0 @@
-add
-seq
-div
-mul
-sub
-seq
-add
-gcd
-mod

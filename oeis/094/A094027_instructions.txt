@@ -1,6 +1,0 @@
-lpb
-sub
-sub
-mul
-lpe
-sub

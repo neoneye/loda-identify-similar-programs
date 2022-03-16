@@ -1,4 +1,0 @@
-pow
-lpb
-dif
-lpe

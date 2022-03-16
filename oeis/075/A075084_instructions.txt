@@ -1,8 +1,0 @@
-mov
-add
-seq
-lpb
-mov
-add
-lpe
-mov

@@ -1,9 +1,0 @@
-mul
-add
-mov
-pow
-sub
-mul
-mov
-div
-add

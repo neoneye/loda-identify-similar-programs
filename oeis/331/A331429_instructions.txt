@@ -1,8 +1,0 @@
-sub
-add
-bin
-sub
-bin
-gcd
-add
-sub

@@ -1,5 +1,0 @@
-mov
-gcd
-seq
-add
-add

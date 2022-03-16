@@ -1,4 +1,0 @@
-pow
-mov
-mul
-bin

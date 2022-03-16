@@ -1,5 +1,0 @@
-trn
-sub
-div
-add
-mod

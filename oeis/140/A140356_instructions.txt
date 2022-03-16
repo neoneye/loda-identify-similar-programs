@@ -1,7 +1,0 @@
-seq
-seq
-add
-mov
-add
-sub
-mov

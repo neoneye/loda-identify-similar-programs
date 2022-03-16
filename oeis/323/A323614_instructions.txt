@@ -1,6 +1,0 @@
-cmp
-mul
-add
-add
-mul
-mov

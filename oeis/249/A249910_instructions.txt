@@ -1,4 +1,0 @@
-gcd
-seq
-add
-mod

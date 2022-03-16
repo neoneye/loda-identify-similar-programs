@@ -1,6 +1,0 @@
-mul
-seq
-seq
-sub
-seq
-div

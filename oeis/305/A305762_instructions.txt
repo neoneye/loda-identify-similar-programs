@@ -1,5 +1,0 @@
-dif
-mul
-gcd
-dif
-div

@@ -1,5 +1,0 @@
-add
-seq
-bin
-max
-sub

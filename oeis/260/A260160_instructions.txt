@@ -1,5 +1,0 @@
-dif
-mov
-trn
-div
-mov

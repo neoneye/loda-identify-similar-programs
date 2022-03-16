@@ -1,6 +1,0 @@
-mul
-add
-div
-dif
-pow
-mul

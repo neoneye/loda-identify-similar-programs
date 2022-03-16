@@ -1,5 +1,0 @@
-seq
-pow
-add
-mul
-mov

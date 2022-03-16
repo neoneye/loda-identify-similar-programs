@@ -1,6 +1,0 @@
-mov
-lpb
-dif
-cmp
-lpe
-mov

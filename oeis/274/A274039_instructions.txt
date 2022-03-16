@@ -1,4 +1,0 @@
-trn
-mov
-trn
-add

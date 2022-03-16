@@ -1,9 +1,0 @@
-mul
-div
-add
-bin
-div
-lpb
-dif
-lpe
-mul

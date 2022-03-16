@@ -1,6 +1,0 @@
-seq
-pow
-max
-bin
-div
-mul

@@ -1,4 +1,0 @@
-add
-gcd
-pow
-bin

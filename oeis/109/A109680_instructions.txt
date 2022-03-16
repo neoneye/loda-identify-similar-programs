@@ -1,5 +1,0 @@
-mov
-gcd
-bin
-trn
-add

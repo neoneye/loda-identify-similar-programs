@@ -1,6 +1,0 @@
-trn
-pow
-lpb
-bin
-lpe
-add

@@ -1,6 +1,0 @@
-add
-seq
-div
-sub
-mul
-add

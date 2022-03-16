@@ -1,4 +1,0 @@
-pow
-dif
-sub
-dif

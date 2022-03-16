@@ -1,4 +1,0 @@
-seq
-trn
-bin
-mov

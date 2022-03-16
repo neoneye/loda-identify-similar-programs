@@ -1,8 +1,0 @@
-add
-mov
-add
-div
-div
-sub
-add
-sub

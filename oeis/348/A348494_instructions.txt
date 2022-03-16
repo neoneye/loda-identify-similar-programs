@@ -1,4 +1,0 @@
-mov
-seq
-seq
-gcd

@@ -1,3 +1,0 @@
-min
-div
-add

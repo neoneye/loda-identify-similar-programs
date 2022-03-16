@@ -1,8 +1,0 @@
-mov
-pow
-cmp
-mul
-sub
-pow
-sub
-mov

@@ -1,4 +1,0 @@
-bin
-pow
-mod
-add

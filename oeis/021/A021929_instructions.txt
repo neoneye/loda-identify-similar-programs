@@ -1,7 +1,0 @@
-lpb
-pow
-sub
-lpe
-mul
-mod
-pow

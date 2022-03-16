@@ -1,7 +1,0 @@
-lpb
-pow
-div
-lpe
-trn
-seq
-add

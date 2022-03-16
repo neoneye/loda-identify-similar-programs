@@ -1,7 +1,0 @@
-lpb
-add
-dif
-sub
-dif
-lpe
-add

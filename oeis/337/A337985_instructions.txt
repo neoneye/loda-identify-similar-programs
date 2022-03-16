@@ -1,4 +1,0 @@
-add
-bin
-dif
-mod

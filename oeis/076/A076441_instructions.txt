@@ -1,9 +1,0 @@
-add
-mul
-max
-add
-mod
-dif
-mod
-dif
-add

@@ -1,4 +1,0 @@
-trn
-seq
-add
-div

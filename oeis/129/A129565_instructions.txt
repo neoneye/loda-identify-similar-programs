@@ -1,4 +1,0 @@
-seq
-min
-add
-mod

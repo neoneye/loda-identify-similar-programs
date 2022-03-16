@@ -1,4 +1,0 @@
-mul
-sub
-pow
-div

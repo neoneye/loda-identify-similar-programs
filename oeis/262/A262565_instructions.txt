@@ -1,6 +1,0 @@
-add
-mod
-mov
-bin
-add
-mov

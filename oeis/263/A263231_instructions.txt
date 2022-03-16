@@ -1,7 +1,0 @@
-mov
-bin
-mul
-mov
-mul
-add
-sub

@@ -1,3 +1,0 @@
-add
-gcd
-mul

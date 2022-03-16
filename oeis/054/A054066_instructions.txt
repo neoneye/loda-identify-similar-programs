@@ -1,4 +1,0 @@
-mov
-bin
-seq
-add

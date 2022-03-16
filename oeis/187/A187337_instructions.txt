@@ -1,5 +1,0 @@
-mov
-gcd
-mod
-sub
-mul

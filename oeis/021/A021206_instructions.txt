@@ -1,6 +1,0 @@
-trn
-mod
-add
-bin
-sub
-mod

@@ -1,5 +1,0 @@
-add
-seq
-pow
-mod
-div

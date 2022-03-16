@@ -1,4 +1,0 @@
-dif
-trn
-div
-add

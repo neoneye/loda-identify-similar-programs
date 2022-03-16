@@ -1,7 +1,0 @@
-mov
-mod
-pow
-seq
-mul
-sub
-mov

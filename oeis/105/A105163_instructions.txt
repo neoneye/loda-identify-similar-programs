@@ -1,5 +1,0 @@
-mov
-add
-bin
-sub
-add

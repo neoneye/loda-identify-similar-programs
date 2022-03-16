@@ -1,6 +1,0 @@
-mul
-div
-mov
-mul
-div
-mov

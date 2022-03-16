@@ -1,4 +1,0 @@
-mul
-mov
-pow
-add

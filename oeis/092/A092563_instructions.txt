@@ -1,6 +1,0 @@
-mov
-mul
-bin
-seq
-mul
-div

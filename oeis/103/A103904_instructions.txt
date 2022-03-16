@@ -1,7 +1,0 @@
-add
-bin
-mov
-pow
-mul
-max
-mov

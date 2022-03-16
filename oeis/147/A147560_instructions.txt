@@ -1,3 +1,0 @@
-pow
-dif
-mul

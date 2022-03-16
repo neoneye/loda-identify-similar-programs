@@ -1,4 +1,0 @@
-gcd
-mov
-bin
-mov

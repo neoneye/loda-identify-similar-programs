@@ -1,7 +1,0 @@
-div
-mov
-pow
-seq
-sub
-div
-mov

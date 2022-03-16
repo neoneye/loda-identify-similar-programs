@@ -1,6 +1,0 @@
-add
-mul
-add
-mod
-gcd
-add

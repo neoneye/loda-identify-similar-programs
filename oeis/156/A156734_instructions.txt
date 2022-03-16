@@ -1,5 +1,0 @@
-trn
-seq
-seq
-mul
-sub

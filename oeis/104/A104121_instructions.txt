@@ -1,6 +1,0 @@
-bin
-mov
-bin
-gcd
-sub
-mov

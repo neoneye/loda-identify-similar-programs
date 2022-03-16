@@ -1,6 +1,0 @@
-mul
-lpb
-bin
-lpe
-div
-add

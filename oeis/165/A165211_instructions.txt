@@ -1,4 +1,0 @@
-mov
-div
-add
-mod

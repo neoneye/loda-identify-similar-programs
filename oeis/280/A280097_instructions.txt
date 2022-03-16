@@ -1,7 +1,0 @@
-mul
-add
-mul
-add
-mul
-add
-seq

@@ -1,4 +1,0 @@
-lpb
-add
-dif
-lpe

@@ -1,6 +1,0 @@
-mov
-trn
-lpb
-mul
-sub
-lpe

@@ -1,8 +1,0 @@
-mov
-min
-mov
-pow
-bin
-mul
-mul
-add

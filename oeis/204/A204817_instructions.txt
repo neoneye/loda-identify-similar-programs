@@ -1,5 +1,0 @@
-dif
-pow
-mod
-trn
-add

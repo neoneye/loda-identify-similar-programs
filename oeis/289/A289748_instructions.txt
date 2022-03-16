@@ -1,6 +1,0 @@
-sub
-dif
-max
-seq
-bin
-mov

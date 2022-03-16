@@ -1,4 +1,0 @@
-mov
-add
-bin
-mod

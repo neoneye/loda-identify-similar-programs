@@ -1,4 +1,0 @@
-mov
-dif
-cmp
-mul

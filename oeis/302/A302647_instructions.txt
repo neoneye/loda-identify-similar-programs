@@ -1,9 +1,0 @@
-lpb
-add
-sub
-lpe
-add
-mul
-div
-mul
-mov

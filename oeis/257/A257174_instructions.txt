@@ -1,7 +1,0 @@
-mov
-bin
-mov
-cmp
-add
-mod
-add

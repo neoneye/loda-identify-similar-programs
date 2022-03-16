@@ -1,7 +1,0 @@
-add
-gcd
-gcd
-pow
-pow
-mod
-mov

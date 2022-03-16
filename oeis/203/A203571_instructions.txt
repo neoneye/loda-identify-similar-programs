@@ -1,7 +1,0 @@
-lpb
-mul
-mod
-lpe
-lpb
-mod
-lpe

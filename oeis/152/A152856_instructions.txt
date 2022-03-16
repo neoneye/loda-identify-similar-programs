@@ -1,4 +1,0 @@
-mul
-bin
-mod
-add

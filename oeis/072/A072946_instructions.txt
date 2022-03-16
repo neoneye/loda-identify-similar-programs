@@ -1,4 +1,0 @@
-mov
-min
-add
-seq

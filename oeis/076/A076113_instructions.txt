@@ -1,4 +1,0 @@
-sub
-add
-bin
-pow

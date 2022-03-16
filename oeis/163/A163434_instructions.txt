@@ -1,5 +1,0 @@
-pow
-mul
-trn
-bin
-div

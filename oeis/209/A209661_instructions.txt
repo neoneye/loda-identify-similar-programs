@@ -1,6 +1,0 @@
-seq
-sub
-seq
-gcd
-mul
-sub

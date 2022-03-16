@@ -1,8 +1,0 @@
-sub
-lpb
-add
-div
-add
-lpe
-max
-mov

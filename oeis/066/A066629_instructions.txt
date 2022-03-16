@@ -1,6 +1,0 @@
-add
-max
-seq
-mod
-add
-add

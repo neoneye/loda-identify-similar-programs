@@ -1,7 +1,0 @@
-trn
-seq
-seq
-mul
-max
-pow
-div

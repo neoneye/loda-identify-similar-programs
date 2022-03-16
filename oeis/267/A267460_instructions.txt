@@ -1,5 +1,0 @@
-mov
-div
-trn
-sub
-mul

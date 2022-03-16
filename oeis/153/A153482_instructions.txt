@@ -1,5 +1,0 @@
-seq
-pow
-max
-pow
-sub

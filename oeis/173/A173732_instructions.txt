@@ -1,6 +1,0 @@
-mul
-add
-lpb
-dif
-lpe
-div

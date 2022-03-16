@@ -1,4 +1,0 @@
-trn
-seq
-mul
-sub

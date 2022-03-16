@@ -1,6 +1,0 @@
-mov
-cmp
-bin
-add
-mul
-div

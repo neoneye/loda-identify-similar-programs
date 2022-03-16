@@ -1,6 +1,0 @@
-bin
-gcd
-seq
-add
-mov
-sub

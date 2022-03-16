@@ -1,6 +1,0 @@
-mov
-sub
-gcd
-bin
-cmp
-mov

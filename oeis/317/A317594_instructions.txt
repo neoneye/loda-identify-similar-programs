@@ -1,5 +1,0 @@
-mov
-pow
-cmp
-add
-add
