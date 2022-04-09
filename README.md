@@ -38,7 +38,7 @@ program id;overlap
 100201;25
 ```
 
-In the above csv file, it seems that these are highly similar: [A7522](https://oeis.org/A007522), [A30431](https://oeis.org/A030431), [A039949](https://oeis.org/A039949). There seems to be a pattern here.
+In the above csv file, it seems that these are highly similar: [A007522](https://oeis.org/A007522), [A030431](https://oeis.org/A030431), [A039949](https://oeis.org/A039949). There seems to be a pattern here.
 
 A pattern can serve as a template for finding new programs.
 
@@ -78,6 +78,5 @@ program id;overlap
 45410;15
 ```
 
-In the above csv file, the `overlap` column is less than 20, and the referred programs are not a somewhat similar.
-
+In the above csv file, the `overlap` column is less than 20, and the referred programs are somewhat similar, but with differencies.
 
